@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
   title: 'Jv',
-  tagline: 'Dinosaurs are cool',
+  tagline: '求知若渴，虚心若愚',
   favicon: 'img/logo.ico',
   url: 'https://lao-jiawei.github.io/',
   baseUrl: '/',
@@ -12,13 +12,30 @@ const config: Config = {
   projectName: 'lao-jiawei.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-  
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en'],
+    path: 'i18n',
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      },
+      'zh-Hans': {
+        label: '中文',
+        direction: 'ltr',
+        htmlLang: 'zh-Hans',
+        calendar: 'gregory',
+        path: 'zh',
+      }
+    }
   },
 
   presets: [
@@ -46,6 +63,11 @@ const config: Config = {
     ],
   ],
 
+
+  plugins: [
+    'docusaurus-plugin-sass',
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -55,6 +77,7 @@ const config: Config = {
         alt: 'My Site Logo',
         src: 'img/logo.png',
       },
+      //TODO: 调整目录结构
       items: [
         {
           type: 'docSidebar',
@@ -62,9 +85,26 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          label: '笔记',
+          position: 'right',
+          items: [
+            { label: '前端', to: 'blog/archive' },
+            { label: '后端', to: 'docs/skill' },
+            { label: 'CS', to: 'resources' },
+          ],
+        },
+        {
+          to: '/blog',
+          label: '博客',
+          position: 'right'
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/lao-jiawei',
           label: 'GitHub',
           position: 'right',
         },
