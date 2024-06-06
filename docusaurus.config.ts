@@ -17,8 +17,8 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -28,13 +28,6 @@ const config: Config = {
         calendar: 'gregory',
         path: 'en',
       },
-      'zh-Hans': {
-        label: '中文',
-        direction: 'ltr',
-        htmlLang: 'zh-Hans',
-        calendar: 'gregory',
-        path: 'zh',
-      }
     }
   },
 
@@ -89,19 +82,15 @@ const config: Config = {
           label: '笔记',
           position: 'right',
           items: [
-            { label: '前端', to: 'blog/archive' },
-            { label: '后端', to: 'docs/skill' },
-            { label: 'CS', to: 'resources' },
+            { label: '前端', to: '/blog' },
+            { label: '后端', to: '/blog' },
+            { label: 'CS', to: '/blog' },
           ],
         },
         {
           to: '/blog',
           label: '博客',
           position: 'right'
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
         },
         {
           href: 'https://github.com/lao-jiawei',

@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "jv",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.笔记": {
+    "message": "笔记",
+    "description": "Navbar item with label 笔记"
+  },
+  "item.label.博客": {
+    "message": "博客",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.前端": {
+    "message": "前端",
+    "description": "Navbar item with label 前端"
+  },
+  "item.label.后端": {
+    "message": "后端",
+    "description": "Navbar item with label 后端"
+  },
+  "item.label.CS": {
+    "message": "CS",
+    "description": "Navbar item with label CS"
+  }
+}
