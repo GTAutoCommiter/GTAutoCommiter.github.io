@@ -58,6 +58,7 @@ const Hero = () => {
           </motion.p>
           <motion.div custom={3} initial="hidden" animate="visible" variants={variants}>
             <SocialLinks />
+          console.log("🚀 ~ file: index.tsx:61 ~ Hero ~ hidden:", hidden);
           </motion.div>
         </div>
       </motion.div>
