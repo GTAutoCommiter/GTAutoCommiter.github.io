@@ -1,6 +1,9 @@
 import { useBlogPost } from '@docusaurus/theme-common/internal';
+import type { Props } from '@theme/BlogPostItem';
 import clsx from 'clsx';
 import BlogPostItemContainer from "./Container";
+import BlogPostItemContent from './Content';
+import BlogPostItemFooter from './Footer';
 import BlogPostItemHeader from "./Header";
 
 const useContainerClassName = () => {
@@ -17,6 +20,10 @@ const BlogPostItem = ({ children, className }: Props): JSX.Element => {
       className={clsx(containClassName, className)}
     >
       <BlogPostItemHeader />
+      <BlogPostItemContent>
+        {children}
+      </BlogPostItemContent>
+      <BlogPostItemFooter />
     </BlogPostItemContainer>
   )
 }

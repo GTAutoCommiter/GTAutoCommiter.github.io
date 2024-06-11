@@ -26,7 +26,7 @@ const useReadingTimePlural = () => {
   }
 }
 
-const ReadingTime = ({ readingTime }: { readingTime: number }) => {
+export function ReadingTime({ readingTime }: { readingTime: number }) {
   const readingTimePlural = useReadingTimePlural();
   return <span className="truncate">{readingTimePlural(readingTime)}</span>
 }

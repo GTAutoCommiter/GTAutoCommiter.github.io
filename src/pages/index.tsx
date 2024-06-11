@@ -5,6 +5,7 @@ import Hero from './_components/Hero';
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}

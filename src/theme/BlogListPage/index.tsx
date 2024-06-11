@@ -2,8 +2,10 @@ import { HtmlClassNameProvider, PageMetadata, ThemeClassNames } from '@docusauru
 import { Icon } from '@iconify/react';
 import { ViewType, useViewType } from '@site/src/hooks/useViewType';
 import type { Props } from '@theme/BlogListPage';
+import BlogPostItems from '@theme/BlogPostItems';
 import SearchMetadata from '@theme/SearchMetadata';
 import clsx from 'clsx';
+import BlogPostGridItems from '../BlogPostGridItems';
 import MyLayout from '../MyLayout';
 import styles from './styles.module.scss';
 
@@ -65,8 +67,10 @@ const BlogListPageContent = (props: Props) => {
           <>
             {isListView && (
               <div className={styles.blogList}>
+                <BlogPostItems items={items} />
               </div>
             )}
+            {isGridView && <BlogPostGridItems items={items} />}
           </>
         </div>
       </div>
