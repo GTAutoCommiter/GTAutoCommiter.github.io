@@ -66,5 +66,45 @@
   "sidebar.notes.category.【面向学习】": {
     "message": "【面向学习】",
     "description": "The label for category 【面向学习】 in sidebar notes"
+  },
+  "sidebar.tutorialSidebar.category.react": {
+    "message": "react",
+    "description": "The label for category react in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.vue": {
+    "message": "vue",
+    "description": "The label for category vue in sidebar tutorialSidebar"
+  },
+  "sidebar.javascript.category.Javascript": {
+    "message": "Javascript",
+    "description": "The label for category Javascript in sidebar javascript"
+  },
+  "sidebar.javascript.category.Javascript高级程序设计": {
+    "message": "Javascript高级程序设计",
+    "description": "The label for category Javascript高级程序设计 in sidebar javascript"
+  },
+  "sidebar.javascript.category.JavaScript工程师都应懂的33个概念": {
+    "message": "JavaScript工程师都应懂的33个概念",
+    "description": "The label for category JavaScript工程师都应懂的33个概念 in sidebar javascript"
+  },
+  "sidebar.javascript.category.【面向学习】": {
+    "message": "【面向学习】",
+    "description": "The label for category 【面向学习】 in sidebar javascript"
+  },
+  "sidebar.react.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar react"
+  },
+  "sidebar.vue.category.Vue": {
+    "message": "Vue",
+    "description": "The label for category Vue in sidebar vue"
+  },
+  "sidebar.tutorialSidebar.category.typescript": {
+    "message": "typescript",
+    "description": "The label for category typescript in sidebar tutorialSidebar"
+  },
+  "sidebar.typescript.category.TypeScript": {
+    "message": "TypeScript",
+    "description": "The label for category TypeScript in sidebar typescript"
   }
 }
