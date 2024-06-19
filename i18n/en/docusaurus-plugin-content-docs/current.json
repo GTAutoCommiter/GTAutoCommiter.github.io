@@ -30,5 +30,17 @@
   "sidebar.notes.category.Javascript": {
     "message": "Javascript",
     "description": "The label for category Javascript in sidebar notes"
+  },
+  "sidebar.tutorialSidebar.category.interview": {
+    "message": "interview",
+    "description": "The label for category interview in sidebar tutorialSidebar"
+  },
+  "sidebar.notes.category.interview": {
+    "message": "interview",
+    "description": "The label for category interview in sidebar notes"
+  },
+  "sidebar.notes.category.【面向面试】": {
+    "message": "【面向面试】",
+    "description": "The label for category 【面向面试】 in sidebar notes"
   }
 }
