@@ -24,6 +24,7 @@
     "clsx": "^2.0.0",
     "docusaurus-plugin-sass": "^0.2.5",
     "framer-motion": "^10.18.0",
+    "jvtools": "^1.0.3",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",

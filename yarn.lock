@@ -5125,6 +5125,11 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
+jvtools@^1.0.3:
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/jvtools/-/jvtools-1.0.4.tgz#858764c94a851a4aab63db8f1b302615026ca77b"
+  integrity sha512-v8O+Qs3U6gJl01cT185PO2GtOO/RB1qNcWBVqf3EDGAG0MDLNjNKy/fazv5gLydQIztyQKacm8TSgB3zV4ptbw==
+
 keyv@^4.5.3:
   version "4.5.4"
   resolved "https://registry.npmmirror.com/keyv/-/keyv-4.5.4.tgz#a879a99e29452f942439f2a405e3af8b31d4de93"

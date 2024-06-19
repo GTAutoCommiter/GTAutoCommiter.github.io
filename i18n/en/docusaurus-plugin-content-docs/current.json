@@ -14,5 +14,21 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.notes": {
+    "message": "notes",
+    "description": "The label for category notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.javascript": {
+    "message": "javascript",
+    "description": "The label for category javascript in sidebar tutorialSidebar"
+  },
+  "sidebar.notes.category.笔记": {
+    "message": "笔记",
+    "description": "The label for category 笔记 in sidebar notes"
+  },
+  "sidebar.notes.category.Javascript": {
+    "message": "Javascript",
+    "description": "The label for category Javascript in sidebar notes"
   }
 }
