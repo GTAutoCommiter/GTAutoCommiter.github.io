@@ -1,6 +1,6 @@
 ---
 id: introduction
-slug: /notes
+slug: /vue
 title: 技术笔记
 keywords:
   - 前端

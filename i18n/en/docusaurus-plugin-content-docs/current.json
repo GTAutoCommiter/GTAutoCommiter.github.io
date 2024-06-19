@@ -42,5 +42,29 @@
   "sidebar.notes.category.【面向面试】": {
     "message": "【面向面试】",
     "description": "The label for category 【面向面试】 in sidebar notes"
+  },
+  "sidebar.tutorialSidebar.category.JavaScript工程师都应懂的33个概念": {
+    "message": "JavaScript工程师都应懂的33个概念",
+    "description": "The label for category JavaScript工程师都应懂的33个概念 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JavaScript高级程序设计": {
+    "message": "JavaScript高级程序设计",
+    "description": "The label for category JavaScript高级程序设计 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.【面向学习】": {
+    "message": "【面向学习】",
+    "description": "The label for category 【面向学习】 in sidebar tutorialSidebar"
+  },
+  "sidebar.notes.category.Javascript高级程序设计": {
+    "message": "Javascript高级程序设计",
+    "description": "The label for category Javascript高级程序设计 in sidebar notes"
+  },
+  "sidebar.notes.category.JavaScript工程师都应懂的33个概念": {
+    "message": "JavaScript工程师都应懂的33个概念",
+    "description": "The label for category JavaScript工程师都应懂的33个概念 in sidebar notes"
+  },
+  "sidebar.notes.category.【面向学习】": {
+    "message": "【面向学习】",
+    "description": "The label for category 【面向学习】 in sidebar notes"
   }
 }

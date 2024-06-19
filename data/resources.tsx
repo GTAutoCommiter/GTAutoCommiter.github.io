@@ -24,82 +24,127 @@ export const resourceData: ResourceCategory[] = [
       {
         name: 'TypeScript',
         desc: '',
-        logo: '/img/resource/javascript.svg',
-        href: '',
+        logo: '/img/resource/typescript.png',
+        href: 'docs/category/typescript',
       },
       {
         name: 'React',
         desc: '',
-        logo: '/img/resource/javascript.svg',
-        href: '',
+        logo: 'https://react.dev/favicon.ico',
+        href: 'docs/category/react',
       },
       {
         name: 'Vue',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: 'https://vuejs.org/logo.svg',
+        href: 'docs/category/vue',
+      },
+      {
+        name: 'Html&Css',
+        desc: '',
+        logo: 'https://vuejs.org/logo.svg',
         href: '',
       },
-      
+      {
+        name: 'Webpack',
+        desc: '',
+        logo: '/img/resource/webpack.png',
+        href: '',
+      },
+      {
+        name: 'Vite',
+        desc: '',
+        logo: '/img/resource/vite.svg',
+        href: '',
+      },
+      {
+        name: '前端工程化',
+        desc: '',
+        logo: '/img/resource/vite.svg',
+        href: '',
+      },
     ]
   },
   {
     name: '后端',
     resources: [
       {
-        name: 'JavaScript',
+        name: 'Java',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'TypeScript',
+        name: 'C',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'React',
+        name: 'SpringBoot',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'Vue',
+        name: 'node.js',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
-      
+      {
+        name: 'mySQL',
+        desc: '',
+        logo: '/img/resource/javascript.svg',
+        href: '',
+      },
     ]
   },
   {
-    name: 'CS',
+    name: '开发通用技能',
     resources: [
       {
-        name: '',
+        name: '计算机组成原理',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'TypeScript',
+        name: '计算机网络',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'React',
+        name: '数据结构与算法',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
       {
-        name: 'Vue',
+        name: '操作系统',
         desc: '',
         logo: '/img/resource/javascript.svg',
         href: '',
       },
-      
+      {
+        name: 'Git',
+        desc: '',
+        logo: '/img/resource/javascript.svg',
+        href: '',
+      },
+      {
+        name: 'Vim',
+        desc: '',
+        logo: '/img/resource/javascript.svg',
+        href: '',
+      },
+      {
+        name: '编译器',
+        desc: '',
+        logo: '/img/resource/javascript.svg',
+        href: '',
+      },
     ]
   }
 ]
