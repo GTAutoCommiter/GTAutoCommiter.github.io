@@ -145,6 +145,12 @@ export const resourceData: ResourceCategory[] = [
         logo: '/img/resource/javascript.svg',
         href: '',
       },
+      {
+        name: '正则表达式',
+        desc: '',
+        logo: '/img/resource/javascript.svg',
+        href: '',
+      },
     ]
   }
 ]
