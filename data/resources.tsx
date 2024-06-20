@@ -131,7 +131,7 @@ export const resourceData: ResourceCategory[] = [
         name: 'Git',
         desc: '',
         logo: '/img/resource/git.png',
-        href: '',
+        href: 'docs/category/git',
       },
       {
         name: 'Vim',

@@ -122,5 +122,9 @@
   "sidebar.regExp.category.正则表达式": {
     "message": "正则表达式",
     "description": "The label for category 正则表达式 in sidebar regExp"
+  },
+  "sidebar.git.category.git": {
+    "message": "git",
+    "description": "The label for category git in sidebar git"
   }
 }
