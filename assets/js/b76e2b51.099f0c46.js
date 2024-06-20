@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[119],{5139:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"HtmlAndCss","slug":"/category/htmlandcss","permalink":"/docs/category/htmlandcss","sidebar":"htmlandcss","navigation":{"next":{"title":"Html","permalink":"/docs/category/html"}}}}')}}]);
