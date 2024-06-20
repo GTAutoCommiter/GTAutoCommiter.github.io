@@ -42,7 +42,7 @@ export const resourceData: ResourceCategory[] = [
       {
         name: 'Html&Css',
         desc: '',
-        logo: 'https://vuejs.org/logo.svg',
+        logo: '/img/resource/htmlCss.png',
         href: '',
       },
       {
@@ -60,7 +60,7 @@ export const resourceData: ResourceCategory[] = [
       {
         name: '前端工程化',
         desc: '',
-        logo: '/img/resource/vite.svg',
+        logo: '/img/resource/frontend.png',
         href: '',
       },
     ]
@@ -71,31 +71,31 @@ export const resourceData: ResourceCategory[] = [
       {
         name: 'Java',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/java.png',
         href: '',
       },
       {
         name: 'C',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/c.png',
         href: '',
       },
       {
         name: 'SpringBoot',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/springboot.png',
         href: '',
       },
       {
         name: 'node.js',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/nodejs.svg',
         href: '',
       },
       {
         name: 'mySQL',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/mySQL.png',
         href: '',
       },
     ]
@@ -112,31 +112,31 @@ export const resourceData: ResourceCategory[] = [
       {
         name: '计算机网络',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/net.jpeg',
         href: '',
       },
       {
         name: '数据结构与算法',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/algorithm.png',
         href: '',
       },
       {
         name: '操作系统',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/os.png',
         href: '',
       },
       {
         name: 'Git',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/git.png',
         href: '',
       },
       {
         name: 'Vim',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/vim.png',
         href: '',
       },
       {
@@ -149,6 +149,12 @@ export const resourceData: ResourceCategory[] = [
         name: '正则表达式',
         desc: '',
         logo: '/img/resource/javascript.svg',
+        href: '',
+      },
+      {
+        name: 'npm',
+        desc: '',
+        logo: '/img/resource/npm.png',
         href: '',
       },
     ]
