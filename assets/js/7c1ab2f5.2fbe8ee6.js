@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[48],{9790:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Vue","slug":"/category/vue","permalink":"/docs/category/vue","sidebar":"vue","navigation":{"next":{"title":"\u3010\u5c1a\u7845\u8c37\u3011Vue2.0+Vue3.0","permalink":"/docs/vue-note-shangguigu"}}}}')}}]);
