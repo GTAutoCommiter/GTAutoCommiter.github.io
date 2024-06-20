@@ -106,14 +106,14 @@ export const resourceData: ResourceCategory[] = [
       {
         name: '计算机组成原理',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/cs.png',
         href: '',
       },
       {
         name: '计算机网络',
         desc: '',
         logo: '/img/resource/net.jpeg',
-        href: '',
+        href: 'docs/category/计算机网络',
       },
       {
         name: '数据结构与算法',

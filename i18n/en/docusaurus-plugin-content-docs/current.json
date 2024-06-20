@@ -110,5 +110,9 @@
   "sidebar.react.category.【面向学习】": {
     "message": "【面向学习】",
     "description": "The label for category 【面向学习】 in sidebar react"
+  },
+  "sidebar.network.category.计算机网络": {
+    "message": "计算机网络",
+    "description": "The label for category 计算机网络 in sidebar network"
   }
 }
