@@ -76,6 +76,8 @@ const sidebars: SidebarsConfig = {
             },
           ],
         },
+        'react/react-useSkill',
+        'react/react-useSkill-mobx',
         'react/react-create-react-app-source-code',
         'react/react-source-code-useState',
       ],
@@ -94,7 +96,7 @@ const sidebars: SidebarsConfig = {
       ],
     },
   ],
-  typescript:[
+  typescript: [
     {
       label: 'TypeScript',
       type: 'category',
