@@ -148,7 +148,7 @@ export const resourceData: ResourceCategory[] = [
       {
         name: '正则表达式',
         desc: '',
-        logo: '/img/resource/javascript.svg',
+        logo: '/img/resource/regExp.png',
         href: 'docs/category/正则表达式',
       },
       {
