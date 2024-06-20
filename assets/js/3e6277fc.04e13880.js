@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[2616],{2510:a=>{a.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Java","slug":"/category/java","permalink":"/docs/category/java","sidebar":"java","navigation":{"next":{"title":"\u57fa\u7840\u8bed\u6cd5","permalink":"/docs/category/\u57fa\u7840\u8bed\u6cd5"}}}}')}}]);
