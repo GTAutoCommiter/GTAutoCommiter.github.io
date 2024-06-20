@@ -114,5 +114,13 @@
   "sidebar.network.category.计算机网络": {
     "message": "计算机网络",
     "description": "The label for category 计算机网络 in sidebar network"
+  },
+  "sidebar.javascript.category.freeCodeCamp": {
+    "message": "freeCodeCamp",
+    "description": "The label for category freeCodeCamp in sidebar javascript"
+  },
+  "sidebar.regExp.category.正则表达式": {
+    "message": "正则表达式",
+    "description": "The label for category 正则表达式 in sidebar regExp"
   }
 }
