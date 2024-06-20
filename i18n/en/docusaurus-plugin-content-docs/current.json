@@ -222,5 +222,33 @@
   "sidebar.htmlandcss.category.Scss": {
     "message": "Scss",
     "description": "The label for category Scss in sidebar htmlandcss"
+  },
+  "sidebar.tutorialSidebar.category.基础语法": {
+    "message": "基础语法",
+    "description": "The label for category 基础语法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.面向对象": {
+    "message": "面向对象",
+    "description": "The label for category 面向对象 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.高级技巧": {
+    "message": "高级技巧",
+    "description": "The label for category 高级技巧 in sidebar tutorialSidebar"
+  },
+  "sidebar.java.category.Java": {
+    "message": "Java",
+    "description": "The label for category Java in sidebar java"
+  },
+  "sidebar.java.category.基础语法": {
+    "message": "基础语法",
+    "description": "The label for category 基础语法 in sidebar java"
+  },
+  "sidebar.java.category.面向对象": {
+    "message": "面向对象",
+    "description": "The label for category 面向对象 in sidebar java"
+  },
+  "sidebar.java.category.高级技巧": {
+    "message": "高级技巧",
+    "description": "The label for category 高级技巧 in sidebar java"
   }
 }

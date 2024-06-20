@@ -72,7 +72,7 @@ export const resourceData: ResourceCategory[] = [
         name: 'Java',
         desc: '',
         logo: '/img/resource/java.png',
-        href: '',
+        href: 'docs/category/java',
       },
       {
         name: 'C',
