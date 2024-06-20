@@ -73,12 +73,12 @@ const config: Config = {
       },
       //TODO: 调整目录结构
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Tutorial',
+        },
         {
           to: 'resources',
           label: '笔记',

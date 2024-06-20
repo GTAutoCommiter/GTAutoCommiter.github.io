@@ -126,5 +126,101 @@
   "sidebar.git.category.git": {
     "message": "git",
     "description": "The label for category git in sidebar git"
+  },
+  "sidebar.tutorialSidebar.category.frontend": {
+    "message": "frontend",
+    "description": "The label for category frontend in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.git": {
+    "message": "git",
+    "description": "The label for category git in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.htmlAndCss": {
+    "message": "htmlAndCss",
+    "description": "The label for category htmlAndCss in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.css": {
+    "message": "css",
+    "description": "The label for category css in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.html": {
+    "message": "html",
+    "description": "The label for category html in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.scss": {
+    "message": "scss",
+    "description": "The label for category scss in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.freeCodeCamp": {
+    "message": "freeCodeCamp",
+    "description": "The label for category freeCodeCamp in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.network": {
+    "message": "network",
+    "description": "The label for category network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.regExp": {
+    "message": "regExp",
+    "description": "The label for category regExp in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.vite": {
+    "message": "vite",
+    "description": "The label for category vite in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.webpack": {
+    "message": "webpack",
+    "description": "The label for category webpack in sidebar tutorialSidebar"
+  },
+  "sidebar.frontend.category.前端工程化": {
+    "message": "前端工程化",
+    "description": "The label for category 前端工程化 in sidebar frontend"
+  },
+  "sidebar.webpack.category.webpack": {
+    "message": "webpack",
+    "description": "The label for category webpack in sidebar webpack"
+  },
+  "sidebar.vite.category.vite": {
+    "message": "vite",
+    "description": "The label for category vite in sidebar vite"
+  },
+  "sidebar.htmlAndCss.category.HtmlAndCss": {
+    "message": "HtmlAndCss",
+    "description": "The label for category HtmlAndCss in sidebar htmlAndCss"
+  },
+  "sidebar.htmlAndCss.category.Html": {
+    "message": "Html",
+    "description": "The label for category Html in sidebar htmlAndCss"
+  },
+  "sidebar.htmlAndCss.category.Css": {
+    "message": "Css",
+    "description": "The label for category Css in sidebar htmlAndCss"
+  },
+  "sidebar.htmlAndCss.category.Scss": {
+    "message": "Scss",
+    "description": "The label for category Scss in sidebar htmlAndCss"
+  },
+  "sidebar.tutorialSidebar.category.java": {
+    "message": "java",
+    "description": "The label for category java in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.htmlandcss": {
+    "message": "htmlandcss",
+    "description": "The label for category htmlandcss in sidebar tutorialSidebar"
+  },
+  "sidebar.htmlandcss.category.HtmlAndCss": {
+    "message": "HtmlAndCss",
+    "description": "The label for category HtmlAndCss in sidebar htmlandcss"
+  },
+  "sidebar.htmlandcss.category.Html": {
+    "message": "Html",
+    "description": "The label for category Html in sidebar htmlandcss"
+  },
+  "sidebar.htmlandcss.category.Css": {
+    "message": "Css",
+    "description": "The label for category Css in sidebar htmlandcss"
+  },
+  "sidebar.htmlandcss.category.Scss": {
+    "message": "Scss",
+    "description": "The label for category Scss in sidebar htmlandcss"
   }
 }
