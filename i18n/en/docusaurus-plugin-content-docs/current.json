@@ -250,5 +250,13 @@
   "sidebar.java.category.高级技巧": {
     "message": "高级技巧",
     "description": "The label for category 高级技巧 in sidebar java"
+  },
+  "sidebar.tutorialSidebar.category.【面向开发】": {
+    "message": "【面向开发】",
+    "description": "The label for category 【面向开发】 in sidebar tutorialSidebar"
+  },
+  "sidebar.javascript.category.【面向开发】": {
+    "message": "【面向开发】",
+    "description": "The label for category 【面向开发】 in sidebar javascript"
   }
 }
