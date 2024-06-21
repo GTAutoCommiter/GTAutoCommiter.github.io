@@ -266,5 +266,13 @@
   "sidebar.javascript.category.JSchallenger": {
     "message": "JSchallenger",
     "description": "The label for category JSchallenger in sidebar javascript"
+  },
+  "sidebar.tutorialSidebar.category.nodejs": {
+    "message": "nodejs",
+    "description": "The label for category nodejs in sidebar tutorialSidebar"
+  },
+  "sidebar.nodejs.category.nodejs": {
+    "message": "nodejs",
+    "description": "The label for category nodejs in sidebar nodejs"
   }
 }

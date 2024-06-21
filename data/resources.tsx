@@ -90,7 +90,7 @@ export const resourceData: ResourceCategory[] = [
         name: 'node.js',
         desc: '',
         logo: '/img/resource/nodejs.svg',
-        href: '',
+        href: 'docs/category/nodejs',
       },
       {
         name: 'mySQL',
