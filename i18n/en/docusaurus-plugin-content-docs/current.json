@@ -258,5 +258,13 @@
   "sidebar.javascript.category.【面向开发】": {
     "message": "【面向开发】",
     "description": "The label for category 【面向开发】 in sidebar javascript"
+  },
+  "sidebar.tutorialSidebar.category.JSchallenger": {
+    "message": "JSchallenger",
+    "description": "The label for category JSchallenger in sidebar tutorialSidebar"
+  },
+  "sidebar.javascript.category.JSchallenger": {
+    "message": "JSchallenger",
+    "description": "The label for category JSchallenger in sidebar javascript"
   }
 }
