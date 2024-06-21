@@ -1,6 +1,6 @@
 ---
-id: javascript-jsChallenger-array-note
-slug: /javascript-jsChallenger-array-note
+id: javascript-arr-note
+slug: /javascript-arr-note
 title: Arrays对象
 date: 2022-05-10
 ---
@@ -52,17 +52,17 @@ date: 2022-05-10
 
 > 常见操作
 
-|                      方法                      |            描述            |
-| :--------------------------------------------: | :------------------------: |
-|    let arr=[`数组元素1`，...，`数组元素n`]     |          创建数组          |
-|               let el=arr[`索引`]               |    通过索引访问数组元素    |
-|   arr.forEach(function(item,index,array)){}    |          遍历数组          |
-|              arr.push(`添加元素`)              |  添加元素到数组的**末尾**  |
-|                   arr.pop()                    |   删除数组**末尾**的元素   |
-|                  arr.shift()                   |    删除数组**头部**元素    |
-| arr.push(`目标元素`) | arr.indexOf(`目标元素`) |
-|                 arr.splice(,)                  |    通过索引删除某个元素    |
-| let shallowCopy = arr.slice() | 复制一个数组 |
+|                   方法                    |           描述           |
+| :---------------------------------------: | :----------------------: |
+|  let arr=[`数组元素1`，...，`数组元素n`]  |         创建数组         |
+|            let el=arr[`索引`]             |   通过索引访问数组元素   |
+| arr.forEach(function(item,index,array)){} |         遍历数组         |
+|           arr.push(`添加元素`)            | 添加元素到数组的**末尾** |
+|                 arr.pop()                 |  删除数组**末尾**的元素  |
+|                arr.shift()                |   删除数组**头部**元素   |
+|           arr.push(`目标元素`)            | arr.indexOf(`目标元素`)  |
+|               arr.splice(,)               |   通过索引删除某个元素   |
+|       let shallowCopy = arr.slice()       |       复制一个数组       |
 
 [了解更多](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
@@ -308,8 +308,8 @@ array.filter(function(currentValue))
 
 `expression`：表达式
 
-|           其他格式            |                  前提                  |
-| :---------------------------: | :------------------------------------: |
+|            其他格式             |                  前提                  |
+| :-----------------------------: | :------------------------------------: |
 | `singleParam => { statements }` | 当**只有一个参数**时，圆括号是可选的： |
 |     `() => { statements }`      | **没有参数**的函数应该写成一对圆括号。 |
 
@@ -745,9 +745,9 @@ array.every(function(currentValue))
 
   - 字符串比较，先将字符串转换成数值（ASCII码数值）
 
-    |  表达式  |  值  |
-    | :------: | :--: |
-    | "5" == 5 | true |
+    |  表达式  |  值   |
+    | :------: | :---: |
+    | "5" == 5 | true  |
 
   - 对象比较，要调用对象的`valueOf()`方法，得到基本类型值再比较
 
@@ -755,9 +755,9 @@ array.every(function(currentValue))
 
   - `null`和`undefined`是相等的
 
-    |      表达式       |  值  |
-    | :---------------: | :--: |
-    | null == undefined | true |
+    |      表达式       |  值   |
+    | :---------------: | :---: |
+    | null == undefined | true  |
 
   - 比较相等性之前，不能将`null`和`undefined`转换成其他任何值
 
@@ -1277,12 +1277,12 @@ function myFunction(arr, num) {
 
 |        不改变原数组的方法         |                    描述                    |
 | :-------------------------------: | :----------------------------------------: |
-|      [concat](#concat()方法)      |      返回拼接后的数组，不改变原数组；      |
+|      concat      |      返回拼接后的数组，不改变原数组；      |
 |              forEach              |                  遍历数组                  |
 |                map                |                                            |
 |              join()               |     返回拼接后的字符串，可以指定间隔；     |
-| [slice(start,end);](#slice()方法) | 截取数组，返回截取的部分，不改变原始数组； |
-|    [sort();](array.sort()方法)    |                    排序                    |
+| slice(start,end) | 截取数组，返回截取的部分，不改变原始数组； |
+|    sort()    |                    排序                    |
 |            toString();            |    [1,2,3].toString()==[1,2,3].join();     |
 
 

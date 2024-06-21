@@ -274,5 +274,13 @@
   "sidebar.nodejs.category.nodejs": {
     "message": "nodejs",
     "description": "The label for category nodejs in sidebar nodejs"
+  },
+  "sidebar.tutorialSidebar.category.npm": {
+    "message": "npm",
+    "description": "The label for category npm in sidebar tutorialSidebar"
+  },
+  "sidebar.npm.category.npm": {
+    "message": "npm",
+    "description": "The label for category npm in sidebar npm"
   }
 }

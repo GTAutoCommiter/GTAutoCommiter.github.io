@@ -1,6 +1,6 @@
 ---
 id: javascript-jsChallenger-basics-note
-slug: /javascript-jsChallenger-basice-note
+slug: /javascript-jsChallenger-basics-note
 title: Basics
 date: 2022-05-10
 ---

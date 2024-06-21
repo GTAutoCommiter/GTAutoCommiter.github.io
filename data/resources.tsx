@@ -155,7 +155,7 @@ export const resourceData: ResourceCategory[] = [
         name: 'npm',
         desc: '',
         logo: '/img/resource/npm.png',
-        href: '',
+        href: 'docs/category/npm',
       },
     ]
   }
