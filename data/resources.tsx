@@ -158,5 +158,5 @@ export const resourceData: ResourceCategory[] = [
         href: 'docs/category/npm',
       },
     ]
-  }
+  },
 ]

@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "0c1a757be67e0351",
+    "type": "split",
+    "children": [
+      {
+        "id": "395e28922d0237ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e544f4b4cb4eb0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/npm-使用技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946490b1410fb4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a995b3facc01cebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bc8e990c105cb1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52759ce7926d16dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f98021af6f5e1d6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0b21cf2c932180e",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb8554f294ed2a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95b42cdb1094eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "npm/npm-使用技巧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c379a4f2c425690a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "npm/npm-使用技巧.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52b95506bda32f03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "777c1f190486a933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "npm/npm-使用技巧.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e544f4b4cb4eb0dd",
+  "lastOpenFiles": [
+    "npm/npm-错误码处理.md",
+    "npm/npm-使用技巧.md",
+    "npm/tarojs-使用技巧.md"
+  ]
+}

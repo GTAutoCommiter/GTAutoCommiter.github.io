@@ -127,4 +127,12 @@ date: 2022-05-10
   | scripts     | 存放可执行脚本       |
   |             |                      |
 
-  
+
+# 报错处理
+
+## 【Bug】Assertion failed: (thread_id_key != 0x7777)
+
+* 【原因】
+  * 因为node-fibers在 nodejs >=16.x 的版本已经被弃用了
+* 【解决方法】
+  * 切换至低于16的版本
