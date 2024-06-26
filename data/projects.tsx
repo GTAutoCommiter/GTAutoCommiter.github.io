@@ -5,6 +5,13 @@ export const projects: Project[] = [
     website: 'https://www.npmjs.com/package/jvtools',
     tags: ['opensource', 'personal'],
     type: 'tool'
+  },
+  {
+    title: 'mock-tool',
+    description: 'mock数据工具',
+    website: 'https://lao-jiawei.github.io/mock-tool/',
+    tags: ['opensource', 'personal'],
+    type: 'tool',
   }
 ]
 

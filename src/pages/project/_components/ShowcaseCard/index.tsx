@@ -1,5 +1,5 @@
 import Link from '@docusaurus/Link';
-import { Project, TagList, Tags, type TagType } from '@site/data/projects';
+import { Project, TagList, Tags, type Tag, type TagType } from '@site/data/projects';
 import Tooltip from '@site/src/components/Tooltip';
 import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
 import { sortBy } from '@site/src/utils/jsUtils';
