@@ -34,5 +34,9 @@
   "item.label.CS": {
     "message": "CS",
     "description": "Navbar item with label CS"
+  },
+  "item.label.项目": {
+    "message": "项目",
+    "description": "Navbar item with label 项目"
   }
 }
