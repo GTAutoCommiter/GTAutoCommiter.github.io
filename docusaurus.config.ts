@@ -95,6 +95,11 @@ const config: Config = {
           position: 'right'
         },
         {
+          to: 'project',
+          label: '项目',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/lao-jiawei',
           label: 'GitHub',
           position: 'right',

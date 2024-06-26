@@ -2,6 +2,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import { objToPath } from 'jvtools';
 import Hero from './_components/Hero';
+import ProjectSection from './_components/ProjectSection';
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -15,6 +16,9 @@ export default function Home(): JSX.Element {
       {/* <HomepageHeader /> */}
       <main>
         <Hero />
+        <div className="container-wrapper">
+          <ProjectSection />
+        </div>
         {/* <HomepageFeatures /> */}
       </main>
     </Layout>
