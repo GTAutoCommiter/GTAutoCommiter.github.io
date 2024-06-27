@@ -2,7 +2,8 @@ export const projects: Project[] = [
   {
     title: 'jvtools',
     description: 'js常用工具包',
-    website: 'https://www.npmjs.com/package/jvtools',
+    // website: 'https://www.npmjs.com/package/jvtools',
+    website: 'docs/docs/jvtools/简介',
     tags: ['opensource', 'personal'],
     type: 'tool'
   },

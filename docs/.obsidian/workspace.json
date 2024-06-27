@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "395e28922d0237ab",
+        "id": "6e3322005bc59b14",
         "type": "tabs",
         "children": [
           {
-            "id": "e544f4b4cb4eb0dd",
+            "id": "d324efdb01abb53d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npm/npm-使用技巧.md",
-                "mode": "source",
+                "file": "docs/jvtools/strIsReg.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "docs/jvtools/strIsReg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "docs/jvtools/strIsReg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npm/npm-使用技巧.md"
+                "file": "docs/jvtools/strIsReg.md"
               }
             }
           }
@@ -146,10 +146,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e544f4b4cb4eb0dd",
+  "active": "d324efdb01abb53d",
   "lastOpenFiles": [
-    "npm/npm-错误码处理.md",
+    "docs/jvtools/pathToObj.md",
+    "docs/jvtools/strIsReg.md",
+    "docs/jvtools/pathToObj copy.md",
+    "docs/jvtools/objToPath.md",
+    "docs/jvtools/objToPath copy.md",
+    "docs/jvtools/nestByKey.md",
+    "docs/jvtools/nestByKey copy.md",
+    "docs/jvtools/iteratorObj.md",
+    "docs/nestByKey.md",
+    "docs/jvtools/isEmpty.md",
+    "docs/jvtools/isEmpty copy.md",
+    "docs/jvtools/groupByValue.md",
+    "docs/jvtools/groupByValue copy.md",
+    "docs/jvtools/Format/formatMoney.md",
+    "docs/jvtools/简介.md",
+    "docs/jvtools/filterObj.md",
+    "docs/jvtools/Format",
+    "docs/jvtools/deleteByPath.md",
+    "docs/jvtools/deleteByPath copy.md",
+    "docs/jvtools/debounce.md",
+    "docs/jvtools/debounce copy.md",
+    "docs/jvtools/curry.md",
+    "docs/jvtools/curry copy.md",
+    "docs/jvtools/arrayIsEqual.md",
+    "docs/jvtools/arrayIsEqual copy.md",
+    "frontend/前端优化技巧.md",
     "npm/npm-使用技巧.md",
-    "npm/tarojs-使用技巧.md"
+    "docs/jvtools",
+    "docs"
   ]
 }

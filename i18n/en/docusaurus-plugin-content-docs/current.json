@@ -282,5 +282,29 @@
   "sidebar.npm.category.npm": {
     "message": "npm",
     "description": "The label for category npm in sidebar npm"
+  },
+  "sidebar.tutorialSidebar.category.docs": {
+    "message": "docs",
+    "description": "The label for category docs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.jvtools": {
+    "message": "jvtools",
+    "description": "The label for category jvtools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Format": {
+    "message": "Format",
+    "description": "The label for category Format in sidebar tutorialSidebar"
+  },
+  "sidebar.docs.category.文档": {
+    "message": "文档",
+    "description": "The label for category 文档 in sidebar docs"
+  },
+  "sidebar.docs.category.jvtools使用文档": {
+    "message": "jvtools使用文档",
+    "description": "The label for category jvtools使用文档 in sidebar docs"
+  },
+  "sidebar.docs.category.Format": {
+    "message": "Format",
+    "description": "The label for category Format in sidebar docs"
   }
 }
