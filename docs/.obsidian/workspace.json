@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3322005bc59b14",
+        "id": "9c575b9b8a608cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "d324efdb01abb53d",
+            "id": "60ffcf05be83848c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/jvtools/strIsReg.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/jvtools/strIsReg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/jvtools/strIsReg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/jvtools/strIsReg.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d324efdb01abb53d",
+  "active": "60ffcf05be83848c",
   "lastOpenFiles": [
-    "docs/jvtools/pathToObj.md",
+    "frontend/jest-学习笔记.md",
+    "frontend/lerna-使用笔记.md",
+    "htmlandcss/css/css-布局.md",
+    "htmlandcss/css/flex布局学习笔记.md",
+    "htmlandcss/css/grid-GridGarden练习笔记.md",
+    "htmlandcss/css/css使用技巧.md",
+    "htmlandcss/css/css-CSS实现三角形.md",
+    "htmlandcss/css/css-CSS必会基础知识.md",
+    "htmlandcss/css/css-BFC块级格式化上下文.md",
     "docs/jvtools/strIsReg.md",
+    "docs/jvtools/pathToObj.md",
     "docs/jvtools/pathToObj copy.md",
     "docs/jvtools/objToPath.md",
     "docs/jvtools/objToPath copy.md",
@@ -166,15 +167,6 @@
     "docs/jvtools/filterObj.md",
     "docs/jvtools/Format",
     "docs/jvtools/deleteByPath.md",
-    "docs/jvtools/deleteByPath copy.md",
-    "docs/jvtools/debounce.md",
-    "docs/jvtools/debounce copy.md",
-    "docs/jvtools/curry.md",
-    "docs/jvtools/curry copy.md",
-    "docs/jvtools/arrayIsEqual.md",
-    "docs/jvtools/arrayIsEqual copy.md",
-    "frontend/前端优化技巧.md",
-    "npm/npm-使用技巧.md",
     "docs/jvtools",
     "docs"
   ]
