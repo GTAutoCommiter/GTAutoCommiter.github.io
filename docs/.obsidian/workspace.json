@@ -11,8 +11,12 @@
             "id": "60ffcf05be83848c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cs/计算机组成原理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cs/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cs/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cs/计算机组成原理.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "60ffcf05be83848c",
   "lastOpenFiles": [
+    "network/计算机网络.md",
+    "cs/计算机组成原理.md",
+    "cs",
     "frontend/jest-学习笔记.md",
     "frontend/lerna-使用笔记.md",
     "htmlandcss/css/css-布局.md",
@@ -164,9 +175,7 @@
     "docs/jvtools/groupByValue copy.md",
     "docs/jvtools/Format/formatMoney.md",
     "docs/jvtools/简介.md",
-    "docs/jvtools/filterObj.md",
     "docs/jvtools/Format",
-    "docs/jvtools/deleteByPath.md",
     "docs/jvtools",
     "docs"
   ]

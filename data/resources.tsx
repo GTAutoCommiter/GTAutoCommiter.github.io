@@ -107,7 +107,7 @@ export const resourceData: ResourceCategory[] = [
         name: '计算机组成原理',
         desc: '',
         logo: '/img/resource/cs.png',
-        href: '',
+        href: 'docs/cs/计算机组成原理',
       },
       {
         name: '计算机网络',
