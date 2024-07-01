@@ -306,5 +306,29 @@
   "sidebar.docs.category.Format": {
     "message": "Format",
     "description": "The label for category Format in sidebar docs"
+  },
+  "sidebar.tutorialSidebar.category.cs": {
+    "message": "cs",
+    "description": "The label for category cs in sidebar tutorialSidebar"
+  },
+  "sidebar.cs.category.计算机组成原理": {
+    "message": "计算机组成原理",
+    "description": "The label for category 计算机组成原理 in sidebar cs"
+  },
+  "sidebar.tutorialSidebar.category.Time": {
+    "message": "Time",
+    "description": "The label for category Time in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.URL": {
+    "message": "URL",
+    "description": "The label for category URL in sidebar tutorialSidebar"
+  },
+  "sidebar.docs.category.Time": {
+    "message": "Time",
+    "description": "The label for category Time in sidebar docs"
+  },
+  "sidebar.docs.category.URL": {
+    "message": "URL",
+    "description": "The label for category URL in sidebar docs"
   }
 }

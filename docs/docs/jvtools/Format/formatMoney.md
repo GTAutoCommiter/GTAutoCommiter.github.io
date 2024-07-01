@@ -5,12 +5,12 @@ hide_title: true
 <h3>
   <code>Format.formatMoney(money, [symbol = "", decimals = 2])</code>
 </h3>
-
+格式化价格
 
 
 #### 添加版本
 
-1.0.0
+1.0.3
 
 #### 参数
 
