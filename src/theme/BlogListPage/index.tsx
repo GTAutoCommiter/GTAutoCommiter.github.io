@@ -24,7 +24,7 @@ const ViewTypeSwitch = ({
 }: {
   viewType: ViewType
   toggleViewType: (viewType: ViewType) => void
-}): JSX.Elemen => {
+}): JSX.Element => {
   return (
     <div className={styles.blogSwitchView}>
       <Icon
@@ -72,6 +72,7 @@ const BlogListPageContent = (props: Props) => {
             )}
             {isGridView && <BlogPostGridItems items={items} />}
           </>
+          
         </div>
       </div>
     </MyLayout>

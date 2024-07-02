@@ -9,8 +9,9 @@ export function useViewType() {
     setViewType((localStorage.getItem('viewType') as ViewType) || 'list');
   }, [])
 
-  const toggleViewType = useCallback((newViewType:ViewType) => {
-    localStorage.setItem('viewType',newViewType)
+  const toggleViewType = useCallback((newViewType: ViewType) => {
+    setViewType(newViewType);
+    localStorage.setItem('viewType', newViewType)
   }, [])
 
   return {

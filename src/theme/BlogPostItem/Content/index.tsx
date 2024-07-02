@@ -1,5 +1,6 @@
 import { useBlogPost } from '@docusaurus/theme-common/internal';
 import { blogPostContainerID } from '@docusaurus/utils-common';
+import type { Props } from '@theme/BlogPostItem/Content';
 import MDXContent from '@theme/MDXContent';
 import clsx from 'clsx';
 

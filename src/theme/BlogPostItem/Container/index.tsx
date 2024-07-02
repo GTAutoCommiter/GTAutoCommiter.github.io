@@ -1,5 +1,6 @@
 import { useBlogPost } from '@docusaurus/theme-common/internal';
 import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
+import type { Props } from '@theme/BlogPostItem/Container';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
@@ -27,7 +28,7 @@ const BlogPostItemContainer = ({ children, className }: Props): JSX.Element => {
             >
             </div>
           </div>
-          <div style={{height:'120px'}}></div>
+          <div style={{ height: '120px' }}></div>
         </>
       )}
     </article>
