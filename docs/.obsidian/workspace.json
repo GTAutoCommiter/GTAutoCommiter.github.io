@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
+                "file": "docs/jvtools/getPerformance.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
-                "collapseAll": false,
+                "file": "docs/jvtools/getPerformance.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
+                "file": "docs/jvtools/getPerformance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md"
+                "file": "docs/jvtools/getPerformance.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +148,16 @@
   },
   "active": "669c12fb7865eb58",
   "lastOpenFiles": [
+    "docs/jvtools/getPerformance~.md",
+    "frontend/前端优化技巧.md",
+    "htmlandcss/html/开发笔记.md",
+    "htmlandcss/html/html快速入门.md",
+    "htmlandcss/html/W3C盒模型和怪异盒模型.md",
+    "htmlandcss/html/关于doctype.md",
+    "react/【面向学习】/React官网文档.md",
     "react/react使用技巧.md",
     "react/useState源码解读.md",
     "cs/计算机组成原理.md",
-    "react/【面向学习】/React官网文档.md",
     "docs/jvtools/URL/pathToObj.md",
     "docs/jvtools/URL/objToPath.md",
     "docs/jvtools/URL/getBaseURL.md",
@@ -168,12 +174,6 @@
     "docs/jvtools/groupByValue.md",
     "docs/jvtools/groupByValue~.md",
     "docs/jvtools/filterObj.md",
-    "docs/jvtools/filterObj~.md",
-    "docs/jvtools/deleteByPath.md",
-    "docs/jvtools/debounce~.md",
-    "docs/jvtools/curry.md",
-    "docs/jvtools/curry~.md",
-    "docs/jvtools/arrayIsEqual.md",
     "docs/jvtools/Time",
     "docs/jvtools/URL",
     "cs",
