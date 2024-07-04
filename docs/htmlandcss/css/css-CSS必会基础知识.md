@@ -4,6 +4,23 @@ slug: /htmlAndCss-css-must-know
 title: CSS必会基础知识
 date: 2022-05-10
 ---
+## 盒子模型
+
+CSS会把所有的HTML元素都看成一个盒子。
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/css/css-box.jfif)
+
+| 属性    | 名称   | 描述                                 |
+| ------- | ------ | ------------------------------------ |
+| margin  | 外边距 | 盒子与外界的距离                     |
+| border  | 边框   | 盒子的边框                           |
+| padding | 内边距 | 紧贴内容的补白区域                   |
+| content | 内容   | 元素中的文本或后代元素都是它的内容。 |
+
+* 盒子大小=`content`+左右`padding`+左右`border`
+
+> ⚠️注意：外边距`margin`不会印象盒子的大小，但是会影响盒子的位置。
+
 # 选择器
 
 **作用：选择页面上的某一个或者某一类元素**

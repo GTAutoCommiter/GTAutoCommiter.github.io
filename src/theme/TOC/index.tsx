@@ -25,6 +25,8 @@ const TOC = ({ className, ...props }: Props): JSX.Element => {
     >
       <TOCItems
         {...props}
+        minHeadingLevel={0}
+        maxHeadingLevel={4}
         linkClassName={LINK_CLASS_NAME}
         linkActiveClassName={LINK_ACTIVE_CLASS_NAME}
       />
