@@ -4,6 +4,10 @@ slug: /htmlAndCss-css-must-know
 title: CSS必会基础知识
 date: 2022-05-10
 ---
+## CSS样式权重
+
+
+
 ## 盒子模型
 
 CSS会把所有的HTML元素都看成一个盒子。
@@ -17,9 +21,20 @@ CSS会把所有的HTML元素都看成一个盒子。
 | padding | 内边距 | 紧贴内容的补白区域                   |
 | content | 内容   | 元素中的文本或后代元素都是它的内容。 |
 
-* 盒子大小=`content`+左右`padding`+左右`border`
+* 盒子大小=`content`+左右`padding`+左右`border`（即怪异盒子模型算法）
 
 > ⚠️注意：外边距`margin`不会印象盒子的大小，但是会影响盒子的位置。
+
+* 标准盒模型：盒子大小=content
+
+## 宽高
+
+* `width`：设置宽
+* `height`：设置高
+* `min-{width｜heigth}`：设置最小宽高
+* `max-{width|height}`：设置最大宽高
+
+> ⚠️注意：width和height不与min或max同时使用。
 
 # 选择器
 
