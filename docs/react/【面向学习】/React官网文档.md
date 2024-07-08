@@ -430,13 +430,53 @@ date: 2022-05-10
 
 ### useState
 
+```jsx
+const [state,setState]=useState(initState)
+
+//异步更新
+setState(newState)
+
+/*同步更新
+⚠️注意 state 中不会自动补全旧的变量，需要如上使用扩展运算符合并
+*/
+setState((preState)=>({...preState,...newState}))
+```
+
+`state`：当前状态值
+
+`setState`：更新状态方法
+
+`initState`：初始化状态值
+
 ### useRef
+
+```jsx
+const ref=useRef(initRef);
+
+//更新值
+ref.current=newRef;
+
+//取值
+const curRef=ref.current
+```
 
 ### useEffect
 
+````jsx
+useEffect(()=>{
+  return()=>{
+    
+  }
+},[depend])
+````
+
+
+
 ### useMomo
 
-### Use
+### useReducer
+
+
 
 ## Context API
 
