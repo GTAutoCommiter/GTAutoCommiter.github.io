@@ -330,5 +330,13 @@
   "sidebar.docs.category.URL": {
     "message": "URL",
     "description": "The label for category URL in sidebar docs"
+  },
+  "sidebar.tutorialSidebar.category.源码阅读": {
+    "message": "源码阅读",
+    "description": "The label for category 源码阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.react.category.源码阅读": {
+    "message": "源码阅读",
+    "description": "The label for category 源码阅读 in sidebar react"
   }
 }

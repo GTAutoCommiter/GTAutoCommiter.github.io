@@ -29,6 +29,10 @@ date: 2022-05-10
 
 [slice](#_.slice)
 
+## _.flattenDeep
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/lodash/flattenDeep.jfif)
+
 ## _.slice
 
 ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/loadash/slice.jfif)
@@ -217,6 +221,10 @@ date: 2022-05-10
 
 ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/lodash/baseValues.jfif)
 
+## baseFlatten
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/lodash/baseFlatten.jfif)
+
 ## copyArray
 
 * 拷贝数组
@@ -251,6 +259,10 @@ date: 2022-05-10
 * 判断是否是原型对象
 
 ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/loadash/isPrototype.jfif)
+
+## isFlattenable
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/lodash/isFlattenable.jfif)
 
 ## strictIndexOf
 
