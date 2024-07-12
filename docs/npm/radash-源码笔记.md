@@ -113,3 +113,50 @@ date: 2024-07-10
 
 ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/unique.jfif)
 
+### zipToOject
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/zipToOject.jfif)
+
+## Number
+
+### inRange
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/inRange.jfif)
+
+### toFloat
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/toFloat.jfif)
+
+### toInt
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/toInt.jfif)
+
+## Object
+
+### assign
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/assign.jfif)
+
+### clone
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/clone.jfif)
+
+### set
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/set.jfif)
+
+
+
+## Typed
+
+### isArray
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/isArray.jfif)
+
+### isObject
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/isObject.jfif)
+
+### isPrimitive
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/radash/isPrimitive.jfif)
