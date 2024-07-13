@@ -5,7 +5,7 @@ title: createElement
 date: 2024-07-08
 ---
 
-## `createElement(type, config, children)` 
+## `createElement(type,config, children)` 
 
 ### 参数
 
@@ -39,7 +39,17 @@ let key = null;
 let ref = null;
 ```
 
-#### 分类props 属性和特殊属性
+### 分类props 属性和特殊属性
 
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-2.jfif)
 
+### 将子元素挂载到props.children中
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-3.jfif)
+
+### 为props属性赋默认值（defaultProps）
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-4.jfif)
+
+### 创建并返回ReactElement
 
