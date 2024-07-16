@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/源码阅读/react源码.md",
+                "file": "react/源码阅读/数据结构/Fiber.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/源码阅读/react源码.md",
+                "file": "react/源码阅读/数据结构/Fiber.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/源码阅读/react源码.md",
+                "file": "react/源码阅读/数据结构/Fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/源码阅读/react源码.md"
+                "file": "react/源码阅读/数据结构/Fiber.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "09549dc29686c883",
   "lastOpenFiles": [
+    "react/源码阅读/数据结构/双缓存技术.md",
+    "react/源码阅读/数据结构/WorkTag.md",
     "react/源码阅读/useState源码解读.md",
+    "react/源码阅读/hook",
+    "react/源码阅读/数据结构/TypeOfMode.md",
+    "react/源码阅读/数据结构/Fiber.md",
     "react/源码阅读/react源码.md",
     "react/源码阅读/createElement.md",
     "react/源码阅读/isValidElement.md",
-    "react/源码阅读/数据结构/WorkTag.md",
-    "react/源码阅读/数据结构/TypeOfMode.md",
-    "react/源码阅读/数据结构/Fiber.md",
     "react/源码阅读/项目目录.md",
     "react/源码阅读/数据结构",
     "os/macOs/macOs.md",
@@ -177,12 +179,9 @@
     "docs/jvtools/isEmpty.md",
     "docs/jvtools/Time/dayDif.md",
     "docs/jvtools/Time/format.md",
-    "2024-07-15.md",
-    "2024-07-01.md",
     "react/源码阅读",
     "docs/jvtools/Time",
     "docs/jvtools/URL",
-    "cs",
-    "docs/jvtools/Format"
+    "cs"
   ]
 }
