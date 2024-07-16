@@ -125,7 +125,7 @@ export const resourceData: ResourceCategory[] = [
         name: '操作系统',
         desc: '',
         logo: '/img/resource/os.png',
-        href: '',
+        href: 'docs/category/操作系统',
       },
       {
         name: 'Git',

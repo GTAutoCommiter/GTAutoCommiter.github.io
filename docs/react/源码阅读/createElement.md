@@ -89,5 +89,17 @@ element = {
 };
 ````
 
+# 检测开发者是否使用错误的props
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-5.jfif)
+
+## defineKeyPropWarningGetter
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-6.jfif)
+
+## defineRefPropWarningGetter
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/createElement-7.jfif)
+
 
 

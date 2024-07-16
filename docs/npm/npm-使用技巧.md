@@ -105,6 +105,28 @@ date: 2022-05-10
      npm unlink <依赖包名>
      ````
 
+## Q：如何使用命令更新package版本？
+
+* A：
+
+  ````javascript
+  npm version [action]
+  ````
+
+  > 基本号构成
+  >
+  > ````javascript
+  > 版本号基本是由三位数字组成：
+  >    1   .   0   .   0
+  > [MAJOR].[MINOR].[PATCH]
+  > ````
+
+  `action`:
+
+  * `major`：进行不兼容的API更改时的版本
+  * `minor`：以向后兼容的方式添加功能时的版本
+  * `patch`：向后兼容的错误修复程序的版本
+
 
 # Package.json相关
 

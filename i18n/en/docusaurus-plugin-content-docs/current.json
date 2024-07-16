@@ -338,5 +338,21 @@
   "sidebar.react.category.源码阅读": {
     "message": "源码阅读",
     "description": "The label for category 源码阅读 in sidebar react"
+  },
+  "sidebar.tutorialSidebar.category.os": {
+    "message": "os",
+    "description": "The label for category os in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.数据结构": {
+    "message": "数据结构",
+    "description": "The label for category 数据结构 in sidebar tutorialSidebar"
+  },
+  "sidebar.react.category.数据结构": {
+    "message": "数据结构",
+    "description": "The label for category 数据结构 in sidebar react"
+  },
+  "sidebar.os.category.操作系统": {
+    "message": "操作系统",
+    "description": "The label for category 操作系统 in sidebar os"
   }
 }
