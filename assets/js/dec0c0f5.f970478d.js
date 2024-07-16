@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[9225],{2752:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"\u64cd\u4f5c\u7cfb\u7edf","slug":"/category/\u64cd\u4f5c\u7cfb\u7edf","permalink":"/docs/category/\u64cd\u4f5c\u7cfb\u7edf","sidebar":"os","navigation":{"next":{"title":"linux","permalink":"/docs/os/linux/"}}}}')}}]);
