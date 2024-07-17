@@ -354,5 +354,29 @@
   "sidebar.os.category.操作系统": {
     "message": "操作系统",
     "description": "The label for category 操作系统 in sidebar os"
+  },
+  "sidebar.tutorialSidebar.category.hook": {
+    "message": "hook",
+    "description": "The label for category hook in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初始化渲染": {
+    "message": "初始化渲染",
+    "description": "The label for category 初始化渲染 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.render阶段": {
+    "message": "render阶段",
+    "description": "The label for category render阶段 in sidebar tutorialSidebar"
+  },
+  "sidebar.react.category.hook": {
+    "message": "hook",
+    "description": "The label for category hook in sidebar react"
+  },
+  "sidebar.react.category.初始化渲染": {
+    "message": "初始化渲染",
+    "description": "The label for category 初始化渲染 in sidebar react"
+  },
+  "sidebar.react.category.render阶段": {
+    "message": "render阶段",
+    "description": "The label for category render阶段 in sidebar react"
   }
 }

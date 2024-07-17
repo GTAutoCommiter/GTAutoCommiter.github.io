@@ -76,6 +76,21 @@ git branch -d <分枝名>
 git checkout -b <分支名>
 ````
 
+## 切换分支
+
+````bash
+## 根据分支名切换
+git checkout <分支名>
+
+## 切回上次分支
+git checkout -
+
+## 根据标签名切换
+git checkout <标签名>
+````
+
+
+
 ## 本地创建分枝关联远程分枝
 
 1. pull远程分枝索引
