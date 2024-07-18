@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/源码阅读/项目目录.md",
+                "file": "react/源码阅读/数据结构/ReactRootTag.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/源码阅读/项目目录.md",
+                "file": "react/源码阅读/数据结构/ReactRootTag.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/源码阅读/项目目录.md",
+                "file": "react/源码阅读/数据结构/ReactRootTag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/源码阅读/项目目录.md"
+                "file": "react/源码阅读/数据结构/ReactRootTag.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "09549dc29686c883",
   "lastOpenFiles": [
+    "react/源码阅读/数据结构/TypeOfMode.md",
+    "react/源码阅读/数据结构/ReactRootTag.md",
+    "react/源码阅读/项目目录.md",
     "react/源码阅读/项目目录~.md",
     "react/源码阅读/初始化渲染/render阶段/render.md",
     "react/源码阅读/hook/useState源码解读.md",
-    "react/源码阅读/项目目录.md",
     "react/源码阅读/初始化渲染/render阶段",
     "git/如何参与代码贡献.md",
     "react/源码阅读/初始化渲染",
     "react/源码阅读/数据结构/双缓存技术.md",
     "react/源码阅读/数据结构/WorkTag.md",
-    "react/源码阅读/数据结构/TypeOfMode.md",
     "react/源码阅读/数据结构/Fiber.md",
     "react/源码阅读/数据结构",
     "react/源码阅读/0数据结构/WorkTag.md",
@@ -179,7 +180,6 @@
     "react/源码阅读/hook",
     "react/源码阅读/0_数据结构/TypeOfMode.md",
     "react/源码阅读/react源码.md",
-    "react/源码阅读/createElement.md",
     "react/源码阅读/0_数据结构",
     "os/linux",
     "os/windows",
