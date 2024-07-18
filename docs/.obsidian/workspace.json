@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/源码阅读/数据结构/ReactRootTag.md",
+                "file": "tool/搜索引擎.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/源码阅读/数据结构/ReactRootTag.md",
+                "file": "tool/搜索引擎.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/源码阅读/数据结构/ReactRootTag.md",
+                "file": "tool/搜索引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/源码阅读/数据结构/ReactRootTag.md"
+                "file": "tool/搜索引擎.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "09549dc29686c883",
   "lastOpenFiles": [
-    "react/源码阅读/数据结构/TypeOfMode.md",
     "react/源码阅读/数据结构/ReactRootTag.md",
+    "tool/搜索引擎.md",
+    "tool",
+    "react/源码阅读/数据结构/TypeOfMode.md",
     "react/源码阅读/项目目录.md",
     "react/源码阅读/项目目录~.md",
     "react/源码阅读/初始化渲染/render阶段/render.md",
@@ -179,10 +181,8 @@
     "react/源码阅读/useState源码解读.md",
     "react/源码阅读/hook",
     "react/源码阅读/0_数据结构/TypeOfMode.md",
-    "react/源码阅读/react源码.md",
     "react/源码阅读/0_数据结构",
     "os/linux",
-    "os/windows",
-    "os/macOs"
+    "os/windows"
   ]
 }

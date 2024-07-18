@@ -378,5 +378,13 @@
   "sidebar.react.category.render阶段": {
     "message": "render阶段",
     "description": "The label for category render阶段 in sidebar react"
+  },
+  "sidebar.tutorialSidebar.category.tool": {
+    "message": "tool",
+    "description": "The label for category tool in sidebar tutorialSidebar"
+  },
+  "sidebar.tool.category.工具使用技巧": {
+    "message": "工具使用技巧",
+    "description": "The label for category 工具使用技巧 in sidebar tool"
   }
 }

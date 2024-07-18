@@ -140,10 +140,10 @@ export const resourceData: ResourceCategory[] = [
         href: '',
       },
       {
-        name: '编译器',
+        name: '工具使用技巧',
         desc: '',
         logo: '/img/resource/javascript.svg',
-        href: '',
+        href: 'docs/category/工具使用技巧',
       },
       {
         name: '正则表达式',
