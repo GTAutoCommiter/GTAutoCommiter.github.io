@@ -1,7 +1,7 @@
 ---
 id: react-source-code-ReactRootTags
 slug: /react-source-code-ReactRootTags
-title:ReactRootTags
+title: ReactRootTags
 date: 2024-07-18
 ---
 
