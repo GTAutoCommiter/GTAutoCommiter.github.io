@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tool/搜索引擎.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tool/搜索引擎.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tool/搜索引擎.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tool/搜索引擎.md"
+                "file": "react/【面向学习】/React官网文档.md"
               }
             }
           }
@@ -148,14 +148,24 @@
   },
   "active": "09549dc29686c883",
   "lastOpenFiles": [
-    "react/源码阅读/数据结构/ReactRootTag.md",
+    "react/【面向学习】/react-freeCodeCamp.md",
+    "react/【面向学习】/react-尚硅谷.md",
+    "react/【面向学习】/Ahook库源码.md",
+    "react/源码阅读/hook/useState源码解读.md",
+    "react/creact-react-app源码.md",
+    "react/react使用技巧.md",
+    "react/mobx使用技巧.md",
+    "frontend/前端优化技巧.md",
+    "cs/计算机组成原理.md",
+    "cs/设计模式.md",
+    "vue/vue-尚硅谷.md",
     "tool/搜索引擎.md",
+    "react/源码阅读/数据结构/ReactRootTag.md",
     "tool",
     "react/源码阅读/数据结构/TypeOfMode.md",
     "react/源码阅读/项目目录.md",
     "react/源码阅读/项目目录~.md",
     "react/源码阅读/初始化渲染/render阶段/render.md",
-    "react/源码阅读/hook/useState源码解读.md",
     "react/源码阅读/初始化渲染/render阶段",
     "git/如何参与代码贡献.md",
     "react/源码阅读/初始化渲染",
@@ -170,17 +180,7 @@
     "react/源码阅读/0数据结构",
     "react/源码阅读/1_初始化渲染",
     "git/Git-狂神说Java.md",
-    "git/git线上实战练习-learngitbranching.md",
-    "git/commit规范.md",
-    "git/github-markdown文件内联跳转.md",
-    "git/gitignore设置.md",
-    "git/github-使用技巧.md",
-    "react/源码阅读/0_数据结构/Fiber.md",
-    "react/源码阅读/0_数据结构/双缓存技术.md",
-    "react/源码阅读/0_数据结构/WorkTag.md",
-    "react/源码阅读/useState源码解读.md",
     "react/源码阅读/hook",
-    "react/源码阅读/0_数据结构/TypeOfMode.md",
     "react/源码阅读/0_数据结构",
     "os/linux",
     "os/windows"

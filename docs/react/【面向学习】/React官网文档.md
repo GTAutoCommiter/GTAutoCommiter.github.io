@@ -4,6 +4,13 @@ slug: /react-office
 title: React官方文档
 date: 2022-05-10
 ---
+## 简介
+
+### Q：React属于哪种设计模式？
+
+* A：严格说并不属于MVC和MVVM，更多是视图的渲染，并没有对`Model`和`controller`进行操作
+  * ui=`render(data)`单向数据流
+
 ## 组件
 
 ### Q：什么是组件？
@@ -475,6 +482,10 @@ useEffect(()=>{
 ### useMomo
 
 ### useReducer
+
+### useContext
+
+1. 使用createContext创建一个
 
 
 
