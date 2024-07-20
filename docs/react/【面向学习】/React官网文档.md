@@ -485,7 +485,42 @@ useEffect(()=>{
 
 ### useContext
 
-1. 使用createContext创建一个
+````javascript
+import { createContext} from 'react';
+
+// 1.使用createContext创建一个上下文对象
+const MsgContext=createContext();
+
+// 2.在顶层组件中 通过Provider组件提供数据
+function App(){
+  const test='this is a test'
+  return (
+    <div>
+    	<MsgContext.Provider value={test}>
+    		<A/>
+    	</MsgContext.Provider>
+    </div>
+  )
+}
+
+
+function A(){
+  return (
+  	<div>
+    	<B/>
+    </div>
+  )
+}
+
+// 3.在底层组件 通过useContext钩子函数使用数据
+function B(){
+  const useContxt(MsgContext);
+  return (
+    <div>
+    </div>
+  )
+}
+````
 
 
 
