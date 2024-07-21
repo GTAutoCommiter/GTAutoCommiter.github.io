@@ -477,7 +477,30 @@ useEffect(()=>{
 },[depend])
 ````
 
+#### Q：若有多个或是嵌套useEffect执行顺序是什么？
 
+* A：遵循递归顺序
+
+  ````jsx
+  const A=()=>{
+    useEffect(()=>{
+  		console.log('2')
+    },[])
+    
+    useEffect(()=>{
+      console.log('3')
+    },[])
+    return (<><B/></>)
+  }
+  const B=()={
+    useEffect(()=>{
+  		console.log('1')
+  	},[])
+    return (<>this is b<>)
+  }
+  ````
+
+  
 
 ### useMomo
 
@@ -521,6 +544,8 @@ function B(){
   )
 }
 ````
+
+### useLayoutEffect
 
 
 
