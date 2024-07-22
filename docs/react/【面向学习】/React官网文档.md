@@ -457,6 +457,8 @@ setState((preState)=>({...preState,...newState}))
 
 ### useRef
 
+* 使用场景
+
 ```jsx
 const ref=useRef(initRef);
 
@@ -506,7 +508,11 @@ useEffect(()=>{
 
 ### useReducer
 
+* 使用场景：用于优化`setState`过多
+
 ### useContext
+
+* 使用场景：用于跨组件之间传递数据。
 
 ````javascript
 import { createContext} from 'react';
