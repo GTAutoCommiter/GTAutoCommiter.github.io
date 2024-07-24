@@ -90,7 +90,7 @@ const config: Config = {
           // ],
         },
         {
-          to: '/blog',
+          to: 'https://juejin.cn/user/2656897734017608/posts',
           label: '博客',
           position: 'right'
         },

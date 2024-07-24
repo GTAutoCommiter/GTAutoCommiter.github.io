@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "0c1a757be67e0351",
+    "id": "ba56c7158da685d7",
     "type": "split",
     "children": [
       {
-        "id": "16a867811933fcb4",
+        "id": "1d4cfea02a063cef",
         "type": "tabs",
         "children": [
           {
-            "id": "09549dc29686c883",
+            "id": "49d19c5dba3434da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "develop/ES迭代目录.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "946490b1410fb4ce",
+    "id": "a62aa4cc25f258fb",
     "type": "split",
     "children": [
       {
-        "id": "a995b3facc01cebb",
+        "id": "c4d5242f73b49a31",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc8e990c105cb1b",
+            "id": "d0757c897a63ad1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "52759ce7926d16dd",
+            "id": "f7898dee4cbc9408",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "f98021af6f5e1d6c",
+            "id": "ff4e2082c498ecaf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,20 +72,21 @@
     "width": 300
   },
   "right": {
-    "id": "a0b21cf2c932180e",
+    "id": "fb44e30b69a9cd81",
     "type": "split",
     "children": [
       {
-        "id": "feb8554f294ed2a8",
+        "id": "094b955aacfe6e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f95b42cdb1094eb7",
+            "id": "a087baca7b984338",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "develop/ES迭代目录.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "c379a4f2c425690a",
+            "id": "11c611487a4d661d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "develop/ES迭代目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "52b95506bda32f03",
+            "id": "6236fffce8d72a69",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +120,21 @@
             }
           },
           {
-            "id": "777c1f190486a933",
+            "id": "e56f9f915fa4eee8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "develop/ES迭代目录.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,43 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09549dc29686c883",
-  "lastOpenFiles": [
-    "algorithm/力扣笔记.md",
-    "2024-07-15.md",
-    "algorithm/2024-07-15.md",
-    "2024-07-01.md",
-    "algorithm/2024-07-01.md",
-    "algorithm",
-    "react/【面向学习】/React官网文档.md",
-    "react/【面向学习】/react-freeCodeCamp.md",
-    "react/【面向学习】/react-尚硅谷.md",
-    "react/【面向学习】/Ahook库源码.md",
-    "react/源码阅读/hook/useState源码解读.md",
-    "react/creact-react-app源码.md",
-    "react/react使用技巧.md",
-    "react/mobx使用技巧.md",
-    "frontend/前端优化技巧.md",
-    "cs/计算机组成原理.md",
-    "cs/设计模式.md",
-    "vue/vue-尚硅谷.md",
-    "tool/搜索引擎.md",
-    "react/源码阅读/数据结构/ReactRootTag.md",
-    "tool",
-    "react/源码阅读/数据结构/TypeOfMode.md",
-    "react/源码阅读/项目目录.md",
-    "react/源码阅读/项目目录~.md",
-    "react/源码阅读/初始化渲染/render阶段/render.md",
-    "react/源码阅读/初始化渲染/render阶段",
-    "git/如何参与代码贡献.md",
-    "react/源码阅读/初始化渲染",
-    "react/源码阅读/数据结构/双缓存技术.md",
-    "react/源码阅读/数据结构/WorkTag.md",
-    "react/源码阅读/数据结构",
-    "react/源码阅读/0数据结构",
-    "react/源码阅读/1_初始化渲染",
-    "react/源码阅读/hook",
-    "react/源码阅读/0_数据结构",
-    "os/linux"
-  ]
+  "active": "49d19c5dba3434da",
+  "lastOpenFiles": []
 }

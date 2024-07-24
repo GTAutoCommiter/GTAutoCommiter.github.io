@@ -119,7 +119,7 @@ export const resourceData: ResourceCategory[] = [
         name: '数据结构与算法',
         desc: '',
         logo: '/img/resource/algorithm.png',
-        href: '',
+        href: 'docs/category/数据结构与算法笔记',
       },
       {
         name: '操作系统',

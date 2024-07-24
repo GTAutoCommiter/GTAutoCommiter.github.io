@@ -386,5 +386,17 @@
   "sidebar.tool.category.工具使用技巧": {
     "message": "工具使用技巧",
     "description": "The label for category 工具使用技巧 in sidebar tool"
+  },
+  "sidebar.tutorialSidebar.category.algorithm": {
+    "message": "algorithm",
+    "description": "The label for category algorithm in sidebar tutorialSidebar"
+  },
+  "sidebar.algorithm.category.数据结构与算法笔记": {
+    "message": "数据结构与算法笔记",
+    "description": "The label for category 数据结构与算法笔记 in sidebar algorithm"
+  },
+  "sidebar.algorithm.link.力扣笔记": {
+    "message": "力扣笔记",
+    "description": "The label for link 力扣笔记 in sidebar algorithm, linking to https://leetcode.cn/u/lao-jiawei/"
   }
 }
