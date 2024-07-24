@@ -4,16 +4,15 @@
         <title>Jv Blog</title>
         <link>https://lao-jiawei.github.io/blog</link>
         <description>Jv Blog</description>
-        <lastBuildDate>Mon, 02 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[test]]></title>
-            <link>https://lao-jiawei.github.io/blog/code-backup</link>
-            <guid>https://lao-jiawei.github.io/blog/code-backup</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[test]]></description>
+            <title><![CDATA[ES迭代目录]]></title>
+            <link>https://lao-jiawei.github.io/blog/blog-es</link>
+            <guid>https://lao-jiawei.github.io/blog/blog-es</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
             <category>随笔</category>
             <category>code</category>
             <category>backup</category>
