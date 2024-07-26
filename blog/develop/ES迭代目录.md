@@ -16,6 +16,18 @@ keywords:
 
 * 这是用于帮助开发者迅速了解ES历来更新的内容`目录`，
 
+# ES14
+
+* [Array.prototype.toSorted()]()
+* [Array.prototype.toReversed()]()
+* [Array.prototype.toSpliced()]()
+* [Array.prototype.with()]()
+* [Symbol 作为 WeakMap 键]()
+
+# ES13
+
+* [Class声明式的类字段]()
+
 # ES12
 
 * [String.prototype.replaceAll]()
