@@ -18,10 +18,10 @@ keywords:
 
 # ES14
 
-* [Array.prototype.toSorted()]()
-* [Array.prototype.toReversed()]()
-* [Array.prototype.toSpliced()]()
-* [Array.prototype.with()]()
+* [Array.prototype.toSorted()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted)
+* [Array.prototype.toReversed()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/toReversed)
+* [Array.prototype.toSpliced()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/toSpliced)
+* [Array.prototype.with()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/with)
 * [Symbol 作为 WeakMap 键]()
 
 # ES13
