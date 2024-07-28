@@ -22,28 +22,28 @@ keywords:
 * [Array.prototype.toReversed()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/toReversed)
 * [Array.prototype.toSpliced()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/toSpliced)
 * [Array.prototype.with()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/with)
-* [Symbol 作为 WeakMap 键]()
+* [Symbol 作为 WeakMap 键](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
 
 # ES13
 
-* [Class声明式的类字段]()
+* [Class声明式的类字段](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Classes)
 
 # ES12
 
-* [String.prototype.replaceAll]()
-* [Promise.any]()
-* [Logical Assignment Operators]()
-* [Numeric Separators]()
-* 
+* [String.prototype.replaceAll](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll)
+* [Promise.any](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/any)
+* [逻辑赋值](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment)
+* [数值分隔符]()
+* [WeakRef](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/WeakRef)
 
 # ES11
 
-* [Dynamic Import]()
-* [import.meta]()
-* [Promise.allSettled]()
-* [globalThis]()
-* [Nullish Coalescing]()
-* [Optional Chaining]()
+* [Dynamic Import](https://zh.javascript.info/modules-dynamic-imports)
+* [import.meta](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/import.meta)
+* [Promise.allSettled](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
+* [globalThis](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/globalThis)
+* [空值合并运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing)
+* [可选链运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * 
 
 # ES10
@@ -61,7 +61,7 @@ keywords:
 
 # ES9
 
-* [异步迭代]()
+* [异步迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for-await...of)
 * [Promise.finally()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)
 * [Rest/Spread 属性](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_syntax)——在ES6的基础上，增加了对对象的支持
 * 正则表达式
