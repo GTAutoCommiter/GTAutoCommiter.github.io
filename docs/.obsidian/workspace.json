@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16a867811933fcb4",
+        "id": "9f63f95c386e2ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "09549dc29686c883",
+            "id": "3e8907b0872de821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/计算机网络.md",
-                "mode": "source",
+                "file": "htmlandcss/css/flex布局学习笔记.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/计算机网络.md",
+                "file": "htmlandcss/css/flex布局学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/计算机网络.md",
+                "file": "htmlandcss/css/flex布局学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/计算机网络.md"
+                "file": "htmlandcss/css/flex布局学习笔记.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09549dc29686c883",
+  "active": "3e8907b0872de821",
   "lastOpenFiles": [
+    "htmlandcss/css/css-CSS实现三角形.md",
+    "htmlandcss/css/css-CSS必会基础知识.md",
+    "htmlandcss/css/grid-GridGarden练习笔记.md",
+    "htmlandcss/css/flex布局学习笔记.md",
+    "htmlandcss/css/css使用技巧.md",
+    "htmlandcss/css/css-布局.md",
+    "javascript/JavaScript工程师都应懂的33个概念/立即执行函数, 模块化, 命名空间.md",
     "network/HTTP.md",
     "network/计算机网络.md",
     "os/macOs/macOs.md",
@@ -168,14 +175,7 @@
     "react/mobx使用技巧.md",
     "frontend/前端优化技巧.md",
     "cs/计算机组成原理.md",
-    "cs/设计模式.md",
-    "vue/vue-尚硅谷.md",
-    "tool/搜索引擎.md",
-    "react/源码阅读/数据结构/ReactRootTag.md",
     "tool",
-    "react/源码阅读/数据结构/TypeOfMode.md",
-    "react/源码阅读/项目目录.md",
-    "react/源码阅读/项目目录~.md",
     "react/源码阅读/初始化渲染/render阶段",
     "react/源码阅读/初始化渲染",
     "react/源码阅读/数据结构",
