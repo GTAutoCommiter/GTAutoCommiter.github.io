@@ -180,9 +180,15 @@ date: 2022-05-10
 
 ### align-content属性（多根轴线的对齐方式）
 
-==注意：如果项目只有一根轴线，该属性不起作用==
+> 注意⚠️：如果项目只有一根轴线，该属性不起作用
+>
+> * 即需要搭配`flex-wrap`属性使用，若`flex-wrap`属性值为`no-wrap`，该属性就不起作用。
 
 包含` justify-content`所有属性值，多了`stretch`属性且为默认值。
+
+#### Q：`align-content`和`justify-content`的区别？
+
+* A：`align-content`相当于y轴上的`justfify-content`，只不过需要出现换行（产生多条轴线）才生效。
 
 
 

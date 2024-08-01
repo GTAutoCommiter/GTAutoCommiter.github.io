@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlandcss/css/flex布局学习笔记.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "事件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlandcss/css/flex布局学习笔记.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlandcss/css/flex布局学习笔记.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "htmlandcss/css/flex布局学习笔记.md"
+                "file": "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "3e8907b0872de821",
   "lastOpenFiles": [
+    "javascript/JavaScript工程师都应懂的33个概念/原始类型.md",
+    "javascript/JavaScript工程师都应懂的33个概念/隐式, 显式, 名义和鸭子类型.md",
+    "javascript/JavaScript工程师都应懂的33个概念/设计模式.md",
+    "javascript/JavaScript工程师都应懂的33个概念/立即执行函数, 模块化, 命名空间.md",
+    "javascript/JavaScript工程师都应懂的33个概念/函数作用域、块级作用域和词法作用域.md",
+    "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
+    "javascript/JavaScript工程师都应懂的33个概念/变量提升.md",
+    "javascript/JavaScript工程师都应懂的33个概念/变量声明.md",
+    "javascript/JavaScript工程师都应懂的33个概念/this, call, apply 和 bind.md",
+    "javascript/JavaScript工程师都应懂的33个概念/setTimeout, setInterval 和 requestAnimationFrame.md",
+    "javascript/JavaScript工程师都应懂的33个概念/Promise.md",
+    "javascript/JavaScript工程师都应懂的33个概念/Object.create 和 Object.assign.md",
+    "javascript/JavaScript工程师都应懂的33个概念/map, reduce, filter 等高阶函数.md",
+    "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md",
+    "javascript/JavaScript工程师都应懂的33个概念/执行上下文.md",
+    "javascript/JavaScript工程师都应懂的33个概念/原型继承与原型链.md",
+    "htmlandcss/css/flex布局学习笔记.md",
     "htmlandcss/css/css-CSS实现三角形.md",
     "htmlandcss/css/css-CSS必会基础知识.md",
     "htmlandcss/css/grid-GridGarden练习笔记.md",
-    "htmlandcss/css/flex布局学习笔记.md",
     "htmlandcss/css/css使用技巧.md",
     "htmlandcss/css/css-布局.md",
-    "javascript/JavaScript工程师都应懂的33个概念/立即执行函数, 模块化, 命名空间.md",
     "network/HTTP.md",
     "network/计算机网络.md",
     "os/macOs/macOs.md",
     "docs/jvtools/简介.md",
-    "algorithm/力扣笔记.md",
-    "2024-07-15.md",
-    "algorithm/2024-07-15.md",
-    "2024-07-01.md",
-    "algorithm/2024-07-01.md",
     "algorithm",
-    "react/【面向学习】/React官网文档.md",
-    "react/【面向学习】/react-freeCodeCamp.md",
-    "react/【面向学习】/react-尚硅谷.md",
-    "react/【面向学习】/Ahook库源码.md",
-    "react/源码阅读/hook/useState源码解读.md",
-    "react/creact-react-app源码.md",
-    "react/react使用技巧.md",
-    "react/mobx使用技巧.md",
-    "frontend/前端优化技巧.md",
-    "cs/计算机组成原理.md",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
     "react/源码阅读/初始化渲染",
