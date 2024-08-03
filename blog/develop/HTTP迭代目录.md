@@ -10,6 +10,7 @@
 * 二进制传输
 * 多路复用——允许同时发送多个请求和响应
 * 增加双工模式——即不仅客户端能够同时发送多个请求，服务端也能同时处理多个请求，解决了队头堵塞的问题
+* 
 
 ## HTTP1.1（主流的协议版本）
 
@@ -61,5 +62,4 @@
 * Header属性
 
   * [Expect](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Expect)
-
 
