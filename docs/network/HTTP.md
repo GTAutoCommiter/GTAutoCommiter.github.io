@@ -52,4 +52,26 @@ date: 2024-07-30
 
 ## HTTPS
 
-### 加密方式
+### TLS（SSL）加密方式
+
+* `TLS`：传输层安全协议
+
+* 目的：建立安全连接
+  * 为通信双方提供识别和认证通道，从而保证通信的机密性和数据完整性。
+* 提供服务：
+  * 身份验证
+  * 加密
+  * 完整性
+
+> ⚠️注意：两种协议并不兼容
+
+* 加密流程： [TLS 握手（类似于 TCP 建立连接时的三次握手）](https://www.bilibili.com/video/BV1KY411x7Jp/?spm_id_from=333.337.search-card.all.click&vd_source=2f682a60feabf0f730ad09e0f980ce83)
+
+  * 在 TLS 握手的过程中
+
+    1. 通信双方交换消息以相互验证
+    2. 相互确认，并确立它们所要使用的加密算法以及会话密钥 (用于对称加密的密钥)。
+
+  * 握手详情
+
+    ![](https://segmentfault.com/img/bVbCCMD)
