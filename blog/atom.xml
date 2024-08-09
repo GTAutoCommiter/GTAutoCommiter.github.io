@@ -2,16 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lao-jiawei.github.io/blog</id>
     <title>Jv Blog</title>
-    <updated>2024-07-24T00:00:00.000Z</updated>
+    <updated>2024-07-28T15:25:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lao-jiawei.github.io/blog"/>
     <subtitle>Jv Blog</subtitle>
     <icon>https://lao-jiawei.github.io/img/logo.ico</icon>
     <entry>
+        <title type="html"><![CDATA[develop/HTTP迭代目录]]></title>
+        <id>https://lao-jiawei.github.io/blog/develop/HTTP迭代目录</id>
+        <link href="https://lao-jiawei.github.io/blog/develop/HTTP迭代目录"/>
+        <updated>2024-07-28T15:25:44.000Z</updated>
+        <summary type="html"><![CDATA[HTTP3.0]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ES迭代目录]]></title>
         <id>https://lao-jiawei.github.io/blog/blog-es</id>
         <link href="https://lao-jiawei.github.io/blog/blog-es"/>
         <updated>2024-07-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[* 这是用于帮助开发者迅速了解ES历来更新的内容目录，]]></summary>
         <author>
             <name>jv</name>
             <uri>https://github.com/lao-jiawei</uri>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"develop/HTTP\u8fed\u4ee3\u76ee\u5f55","permalink":"/blog/develop/HTTP\u8fed\u4ee3\u76ee\u5f55","unlisted":false},{"title":"ES\u8fed\u4ee3\u76ee\u5f55","permalink":"/blog/blog-es","unlisted":false}]}')}}]);
