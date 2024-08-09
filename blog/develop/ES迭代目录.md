@@ -33,7 +33,7 @@ keywords:
 * [String.prototype.replaceAll](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll)
 * [Promise.any](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/any)
 * [逻辑赋值](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment)
-* [数值分隔符]()
+* 数值分隔符
 * [WeakRef](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/WeakRef)
 
 # ES11
@@ -66,10 +66,10 @@ keywords:
 * [Rest/Spread 属性](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_syntax)——在ES6的基础上，增加了对对象的支持
 * 正则表达式
   * [命名捕获组](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Capturing_group)
-  * [反向断言]()
-  * [dotAll模式]()
-  * [Unicode 转义]()
-* [非转义序列的模板字符串]()
+  * 反向断言
+  * dotAll模式
+  * Unicode 转义
+* 非转义序列的模板字符串
 
 # ES8
 
@@ -98,7 +98,7 @@ keywords:
 * [解构赋值](https://www.runoob.com/w3cnote/deconstruction-assignment.html)
 * [延展操作符（或称 拓展运算符）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 * [对象属性简写](https://www.bookstack.cn/read/es6-3rd/spilt.1.docs-object.md)
-* [Promise]()
+* Promise
 * [let](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let)
 * [const](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/const)
 
