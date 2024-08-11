@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/jvtools/baseBitToDecimal.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/jvtools/baseBitToDecimal.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/jvtools/baseBitToDecimal.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/jvtools/baseBitToDecimal.md"
+                "file": "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "664f0ad72a2dbf26",
   "lastOpenFiles": [
-    "docs/jvtools/decimalToBaseBit.md",
+    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
+    "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
+    "javascript/JavaScript高级程序设计/工作者线程.md",
+    "javascript/JavaScript高级程序设计/函数.md",
     "docs/jvtools/baseBitToDecimal.md",
+    "docs/jvtools/decimalToBaseBit.md",
     "docs/jvtools/arrayIsEqual.md",
     "docs/jvtools/Format/LatAndLong.md",
     "docs/jvtools/Format/formatMoney.md",
@@ -170,10 +174,6 @@
     "javascript/JavaScript工程师都应懂的33个概念/Promise.md",
     "javascript/JavaScript工程师都应懂的33个概念/Object.create 和 Object.assign.md",
     "javascript/JavaScript工程师都应懂的33个概念/map, reduce, filter 等高阶函数.md",
-    "javascript/JavaScript工程师都应懂的33个概念/JavaScript引擎.md",
-    "javascript/JavaScript工程师都应懂的33个概念/执行上下文.md",
-    "javascript/JavaScript工程师都应懂的33个概念/原型继承与原型链.md",
-    "javascript/JavaScript工程师都应懂的33个概念/原始类型.md",
     "algorithm",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
