@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/操作系统/操作系统的组织结构.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "栈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/操作系统/操作系统的组织结构.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/操作系统/操作系统的组织结构.md",
+                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/操作系统/操作系统的组织结构.md"
+                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "664f0ad72a2dbf26",
   "lastOpenFiles": [
-    "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
     "os/操作系统/操作系统的组织结构.md",
+    "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
     "os/操作系统",
     "javascript/JavaScript高级程序设计/迭代器与生成器.md",
     "javascript/JavaScript高级程序设计/工作者线程.md",
