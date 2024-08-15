@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "664f0ad72a2dbf26",
+  "active": "9bc8e990c105cb1b",
   "lastOpenFiles": [
     "os/操作系统/操作系统的组织结构.md",
     "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
