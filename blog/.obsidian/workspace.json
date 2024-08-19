@@ -11,8 +11,12 @@
             "id": "5508950fd42f0005",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "develop/微信小程序开发技巧.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "develop/微信小程序开发技巧.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "develop/微信小程序开发技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "develop/微信小程序开发技巧.md"
+              }
             }
           }
         ],
@@ -140,8 +148,8 @@
   },
   "active": "5508950fd42f0005",
   "lastOpenFiles": [
-    "develop/微信小程序开发技巧.md",
     "develop/ES迭代目录.md",
+    "develop/微信小程序开发技巧.md",
     "develop/HTTP迭代目录.md",
     "develop/HTTP迭代目录~.md"
   ]

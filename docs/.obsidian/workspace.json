@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b6f5aa6d5d1f73",
+        "id": "ff269f8162e870ca",
         "type": "tabs",
         "children": [
           {
-            "id": "664f0ad72a2dbf26",
+            "id": "9360020476fc65aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
+                "file": "frontend/前端开发技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
+                "file": "frontend/前端开发技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
+                "file": "frontend/前端开发技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md"
+                "file": "frontend/前端开发技巧.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9bc8e990c105cb1b",
+  "active": "9360020476fc65aa",
   "lastOpenFiles": [
+    "frontend/前端优化技巧.md",
+    "frontend/前端开发技巧.md",
+    "intro.md",
+    "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
     "os/操作系统/操作系统的组织结构.md",
     "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
     "os/操作系统",
@@ -168,13 +172,9 @@
     "javascript/freeCodeCamp/基础Javascript.md",
     "javascript/freeCodeCamp/函数式编程.md",
     "javascript/JavaScript工程师都应懂的33个概念/闭包.md",
-    "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
     "javascript/JavaScript工程师都应懂的33个概念/函数作用域、块级作用域和词法作用域.md",
     "javascript/JavaScript工程师都应懂的33个概念/立即执行函数, 模块化, 命名空间.md",
     "javascript/JavaScript工程师都应懂的33个概念/this, call, apply 和 bind.md",
-    "javascript/JavaScript工程师都应懂的33个概念/setTimeout, setInterval 和 requestAnimationFrame.md",
-    "javascript/JavaScript工程师都应懂的33个概念/Promise.md",
-    "javascript/JavaScript工程师都应懂的33个概念/Object.create 和 Object.assign.md",
     "algorithm",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
