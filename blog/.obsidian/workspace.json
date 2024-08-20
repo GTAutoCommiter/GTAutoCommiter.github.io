@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/微信小程序开发技巧.md",
+                "file": "develop/ES迭代目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/微信小程序开发技巧.md",
+                "file": "develop/ES迭代目录.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/微信小程序开发技巧.md",
+                "file": "develop/ES迭代目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/微信小程序开发技巧.md"
+                "file": "develop/ES迭代目录.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5508950fd42f0005",
   "lastOpenFiles": [
+    "develop/Javascript陷阱.md",
     "develop/ES迭代目录.md",
     "develop/微信小程序开发技巧.md",
     "develop/HTTP迭代目录.md",

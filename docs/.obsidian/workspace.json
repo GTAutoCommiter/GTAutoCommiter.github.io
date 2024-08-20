@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/前端开发技巧.md",
-                "mode": "source",
+                "file": "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/前端开发技巧.md",
+                "file": "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/前端开发技巧.md",
+                "file": "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/前端开发技巧.md"
+                "file": "javascript/JavaScript高级程序设计/变量、作用域与内存.md"
               }
             }
           }
@@ -146,35 +146,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9360020476fc65aa",
+  "active": "9bc8e990c105cb1b",
   "lastOpenFiles": [
-    "frontend/前端优化技巧.md",
+    "javascript/JavaScript高级程序设计/基本引用类型.md",
+    "javascript/JavaScript高级程序设计/集合引用类型.md",
+    "javascript/JavaScript高级程序设计/客户端存储.md",
+    "javascript/JavaScript高级程序设计/模块.md",
+    "javascript/JavaScript高级程序设计/语言基础.md",
+    "javascript/JavaScript高级程序设计/JSON.md",
+    "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
+    "javascript/JavaScript工程师都应懂的33个概念/执行上下文.md",
+    "javascript/freeCodeCamp/基础Javascript.md",
+    "javascript/freeCodeCamp/函数式编程.md",
+    "javascript/函数参数占位符.md",
+    "javascript/proxy对象.md",
+    "javascript/JavaScript高级程序设计/代理与反射.md",
+    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
+    "javascript/JavaScript高级程序设计/工作者线程.md",
+    "javascript/【面向开发】/skill-会改变源数据方法.md",
+    "javascript/【面向开发】/创建数组array的方法.md",
+    "javascript/【面向开发】/遍历数组array方法.md",
     "frontend/前端开发技巧.md",
+    "frontend/前端优化技巧.md",
     "intro.md",
     "javascript/JavaScript工程师都应懂的33个概念/调用堆栈.md",
     "os/操作系统/操作系统的组织结构.md",
     "javascript/JavaScript工程师都应懂的33个概念/消息队列和事件循环.md",
     "os/操作系统",
-    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
-    "javascript/JavaScript高级程序设计/工作者线程.md",
     "javascript/JavaScript高级程序设计/函数.md",
     "docs/jvtools/baseBitToDecimal.md",
-    "docs/jvtools/decimalToBaseBit.md",
-    "docs/jvtools/arrayIsEqual.md",
-    "docs/jvtools/Format/LatAndLong.md",
-    "docs/jvtools/Format/formatMoney.md",
-    "docs/jvtools/clearCookies.md",
-    "docs/jvtools/calcDistance.md",
-    "docs/jvtools/curry.md",
-    "javascript/【面向学习】/ES6-尚硅谷.md",
-    "javascript/freeCodeCamp/中级算法.md",
-    "javascript/freeCodeCamp/面向对象编程.md",
-    "javascript/freeCodeCamp/基础Javascript.md",
-    "javascript/freeCodeCamp/函数式编程.md",
-    "javascript/JavaScript工程师都应懂的33个概念/闭包.md",
-    "javascript/JavaScript工程师都应懂的33个概念/函数作用域、块级作用域和词法作用域.md",
-    "javascript/JavaScript工程师都应懂的33个概念/立即执行函数, 模块化, 命名空间.md",
-    "javascript/JavaScript工程师都应懂的33个概念/this, call, apply 和 bind.md",
     "algorithm",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
