@@ -398,5 +398,21 @@
   "sidebar.algorithm.link.力扣笔记": {
     "message": "力扣笔记",
     "description": "The label for link 力扣笔记 in sidebar algorithm, linking to https://leetcode.cn/u/lao-jiawei/"
+  },
+  "sidebar.tutorialSidebar.category.Cookies": {
+    "message": "Cookies",
+    "description": "The label for category Cookies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.WebAPI": {
+    "message": "WebAPI",
+    "description": "The label for category WebAPI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.操作系统": {
+    "message": "操作系统",
+    "description": "The label for category 操作系统 in sidebar tutorialSidebar"
+  },
+  "sidebar.docs.category.Cookies": {
+    "message": "Cookies",
+    "description": "The label for category Cookies in sidebar docs"
   }
 }
