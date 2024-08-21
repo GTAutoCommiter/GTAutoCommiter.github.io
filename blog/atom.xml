@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lao-jiawei.github.io/blog</id>
     <title>Jv Blog</title>
-    <updated>2024-07-28T15:25:44.000Z</updated>
+    <updated>2024-08-20T14:52:57.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lao-jiawei.github.io/blog"/>
     <subtitle>Jv Blog</subtitle>
     <icon>https://lao-jiawei.github.io/img/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[develop/Javascript陷阱]]></title>
+        <id>https://lao-jiawei.github.io/blog/develop/Javascript陷阱</id>
+        <link href="https://lao-jiawei.github.io/blog/develop/Javascript陷阱"/>
+        <updated>2024-08-20T14:52:57.000Z</updated>
+        <summary type="html"><![CDATA[1. array.every判断空数组为true]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[develop/微信小程序开发技巧]]></title>
+        <id>https://lao-jiawei.github.io/blog/develop/微信小程序开发技巧</id>
+        <link href="https://lao-jiawei.github.io/blog/develop/微信小程序开发技巧"/>
+        <updated>2024-08-15T09:48:34.000Z</updated>
+        <summary type="html"><![CDATA[用方法触发元素点击事件]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[develop/HTTP迭代目录]]></title>
         <id>https://lao-jiawei.github.io/blog/develop/HTTP迭代目录</id>
