@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/jvtools/Cookies/get.md",
+                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/jvtools/Cookies/get.md",
+                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/jvtools/Cookies/get.md",
+                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/jvtools/Cookies/get.md"
+                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "9360020476fc65aa",
   "lastOpenFiles": [
-    "docs/jvtools/Cookies/getAll.md",
-    "docs/jvtools/Cookies/get.md",
-    "docs/jvtools/Cookies/clearAll.md",
-    "docs/jvtools/Cookies/clearAll~.md",
-    "docs/jvtools/clearCookies.md",
-    "javascript/WebAPI/document.md",
-    "docs/jvtools/Cookies",
-    "javascript/【面向学习】/ES6-尚硅谷.md",
-    "javascript/WebAPI",
-    "javascript/【面向开发】/skill-会改变源数据方法.md",
-    "javascript/【面向开发】/javascript实现继承.md",
-    "javascript/【面向开发】/箭头函数的语法和使用场景.md",
-    "javascript/【面向开发】/匿名函数的定义和调用.md",
+    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
+    "javascript/JavaScript高级程序设计/Promise与异步函数.md",
+    "javascript/JavaScript高级程序设计/代理与反射.md",
     "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
-    "javascript/JavaScript高级程序设计/基本引用类型.md",
+    "os/macOs/macOs.md",
+    "htmlandcss/scss/scss-官方文档笔记.md",
     "javascript/JavaScript高级程序设计/集合引用类型.md",
-    "javascript/JavaScript高级程序设计/客户端存储.md",
-    "javascript/JavaScript高级程序设计/模块.md",
-    "javascript/JavaScript高级程序设计/语言基础.md",
-    "javascript/JavaScript高级程序设计/JSON.md",
-    "javascript/JavaScript工程师都应懂的33个概念/执行上下文.md",
+    "javascript/JavaScript高级程序设计/基本引用类型.md",
+    "javascript/函数参数占位符.md",
+    "javascript/JavaScript",
+    "javascript/ES/ES6-尚硅谷.md",
+    "javascript/ES",
+    "javascript/freeCodeCamp/中级算法.md",
+    "javascript/freeCodeCamp/面向对象编程.md",
     "javascript/freeCodeCamp/基础Javascript.md",
     "javascript/freeCodeCamp/函数式编程.md",
-    "javascript/函数参数占位符.md",
-    "javascript/proxy对象.md",
-    "javascript/JavaScript高级程序设计/代理与反射.md",
-    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
-    "javascript/JavaScript高级程序设计/工作者线程.md",
+    "javascript/JSchallenger/JSchallenger-Object对象.md",
+    "javascript/JSchallenger/JSchallenger-Date对象.md",
+    "javascript/JSchallenger/JSchallenger-Basics.md",
+    "javascript/JSchallenger/JSchallenger-Arrays对象.md",
+    "javascript/【面向学习】/jQuery-菜鸟编程.md",
+    "javascript/【面向学习】/Javascript-尚硅谷-入门.md",
+    "javascript/【面向学习】/Javascript-尚硅谷-进阶.md",
+    "javascript/【面向学习】/Javascript-狂神说.md",
+    "javascript/【面向学习】/HTML-DOM.md",
+    "javascript/WebAPI/document.md",
+    "webpack/学习笔记.md",
+    "intro.md",
+    "docs/jvtools/Cookies",
+    "javascript/WebAPI",
     "os/操作系统",
     "algorithm",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
     "react/源码阅读/初始化渲染",
-    "react/源码阅读/数据结构",
-    "react/源码阅读/0数据结构",
-    "react/源码阅读/1_初始化渲染"
+    "react/源码阅读/数据结构"
   ]
 }
