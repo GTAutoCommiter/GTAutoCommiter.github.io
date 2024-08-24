@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
+                "file": "javascript/JavaScript高级程序设计/语言基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
+                "file": "javascript/JavaScript高级程序设计/语言基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md",
+                "file": "javascript/JavaScript高级程序设计/语言基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/Promise与异步函数.md"
+                "file": "javascript/JavaScript高级程序设计/语言基础.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9360020476fc65aa",
   "lastOpenFiles": [
-    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
     "javascript/JavaScript高级程序设计/Promise与异步函数.md",
+    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
     "javascript/JavaScript高级程序设计/代理与反射.md",
     "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
     "os/macOs/macOs.md",
