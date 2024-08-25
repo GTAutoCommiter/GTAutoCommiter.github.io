@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/语言基础.md",
+                "file": "javascript/WebAPI/document.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/语言基础.md",
+                "file": "javascript/WebAPI/document.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/语言基础.md",
+                "file": "javascript/WebAPI/document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/语言基础.md"
+                "file": "javascript/WebAPI/document.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "9360020476fc65aa",
   "lastOpenFiles": [
+    "javascript/【面向学习】/Javascript-尚硅谷-入门.md",
+    "javascript/【面向学习】/Javascript-尚硅谷-进阶.md",
+    "javascript/JavaScript高级程序设计/语言基础.md",
     "javascript/JavaScript高级程序设计/Promise与异步函数.md",
     "javascript/JavaScript高级程序设计/迭代器与生成器.md",
     "javascript/JavaScript高级程序设计/代理与反射.md",
@@ -169,13 +172,10 @@
     "javascript/JSchallenger/JSchallenger-Basics.md",
     "javascript/JSchallenger/JSchallenger-Arrays对象.md",
     "javascript/【面向学习】/jQuery-菜鸟编程.md",
-    "javascript/【面向学习】/Javascript-尚硅谷-入门.md",
-    "javascript/【面向学习】/Javascript-尚硅谷-进阶.md",
     "javascript/【面向学习】/Javascript-狂神说.md",
     "javascript/【面向学习】/HTML-DOM.md",
     "javascript/WebAPI/document.md",
     "webpack/学习笔记.md",
-    "intro.md",
     "docs/jvtools/Cookies",
     "javascript/WebAPI",
     "os/操作系统",
