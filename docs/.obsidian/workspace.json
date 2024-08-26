@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff269f8162e870ca",
+        "id": "3bb46dfeaf4a5891",
         "type": "tabs",
         "children": [
           {
-            "id": "9360020476fc65aa",
+            "id": "dbf4477187ef498a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/WebAPI/document.md",
-                "mode": "source",
+                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "栈",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/WebAPI/document.md",
+                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/WebAPI/document.md",
+                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/WebAPI/document.md"
+                "file": "javascript/JavaScript高级程序设计/3_语言基础.md"
               }
             }
           }
@@ -146,19 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9360020476fc65aa",
+  "active": "dbf4477187ef498a",
   "lastOpenFiles": [
+    "javascript/JavaScript高级程序设计/6_集合引用类型.md",
+    "javascript/JavaScript高级程序设计/客户端存储.md",
+    "javascript/JavaScript高级程序设计/3_语言基础.md",
+    "docs/jvtools/简介.md",
+    "javascript/JavaScript高级程序设计/基本引用类型.md",
+    "git/github-使用技巧.md",
+    "git/gitignore设置.md",
+    "javascript/WebAPI/document.md",
     "javascript/【面向学习】/Javascript-尚硅谷-入门.md",
     "javascript/【面向学习】/Javascript-尚硅谷-进阶.md",
-    "javascript/JavaScript高级程序设计/语言基础.md",
     "javascript/JavaScript高级程序设计/Promise与异步函数.md",
     "javascript/JavaScript高级程序设计/迭代器与生成器.md",
     "javascript/JavaScript高级程序设计/代理与反射.md",
     "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
     "os/macOs/macOs.md",
     "htmlandcss/scss/scss-官方文档笔记.md",
-    "javascript/JavaScript高级程序设计/集合引用类型.md",
-    "javascript/JavaScript高级程序设计/基本引用类型.md",
     "javascript/函数参数占位符.md",
     "javascript/JavaScript",
     "javascript/ES/ES6-尚硅谷.md",
@@ -171,11 +176,6 @@
     "javascript/JSchallenger/JSchallenger-Date对象.md",
     "javascript/JSchallenger/JSchallenger-Basics.md",
     "javascript/JSchallenger/JSchallenger-Arrays对象.md",
-    "javascript/【面向学习】/jQuery-菜鸟编程.md",
-    "javascript/【面向学习】/Javascript-狂神说.md",
-    "javascript/【面向学习】/HTML-DOM.md",
-    "javascript/WebAPI/document.md",
-    "webpack/学习笔记.md",
     "docs/jvtools/Cookies",
     "javascript/WebAPI",
     "os/操作系统",
