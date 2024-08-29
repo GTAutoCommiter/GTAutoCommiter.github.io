@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/微信小程序开发技巧.md",
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/微信小程序开发技巧.md",
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/【微信小程序】如何实现文字转语音？.md",
-                "mode": "source",
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/【微信小程序】如何实现文字转语音？.md",
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/【微信小程序】如何实现文字转语音？.md",
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/【微信小程序】如何实现文字转语音？.md"
+                "file": "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "aeab0808c3baa87b",
   "lastOpenFiles": [
-    "develop/微信小程序开发技巧.md",
     "develop/【微信小程序】如何实现文字转语音？.md",
+    "develop/【微信小程序】如何不点击，使用方法触发按钮的点击事件？.md",
     "develop/未命名.md",
     "develop/ES迭代目录.md",
     "develop/HTTP迭代目录.md",
