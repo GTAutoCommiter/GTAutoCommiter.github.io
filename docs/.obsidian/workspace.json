@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
+                "file": "npm/npm-使用技巧.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
+                "file": "npm/npm-使用技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/3_语言基础.md",
+                "file": "npm/npm-使用技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/JavaScript高级程序设计/3_语言基础.md"
+                "file": "npm/npm-使用技巧.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "dbf4477187ef498a",
   "lastOpenFiles": [
+    "npm/npm-错误码处理.md",
+    "npm/npm-使用技巧.md",
+    "npm/yarn-使用技巧.md",
+    "npm/tarojs-使用技巧.md",
+    "npm/loadash-源码笔记.md",
+    "npm/moment-使用笔记.md",
+    "npm/ms-源码笔记.md",
+    "javascript/JavaScript高级程序设计/3_语言基础.md",
     "javascript/JavaScript高级程序设计/6_集合引用类型.md",
     "javascript/JavaScript高级程序设计/客户端存储.md",
-    "javascript/JavaScript高级程序设计/3_语言基础.md",
     "docs/jvtools/简介.md",
     "javascript/JavaScript高级程序设计/基本引用类型.md",
     "git/github-使用技巧.md",
@@ -169,13 +176,6 @@
     "javascript/ES/ES6-尚硅谷.md",
     "javascript/ES",
     "javascript/freeCodeCamp/中级算法.md",
-    "javascript/freeCodeCamp/面向对象编程.md",
-    "javascript/freeCodeCamp/基础Javascript.md",
-    "javascript/freeCodeCamp/函数式编程.md",
-    "javascript/JSchallenger/JSchallenger-Object对象.md",
-    "javascript/JSchallenger/JSchallenger-Date对象.md",
-    "javascript/JSchallenger/JSchallenger-Basics.md",
-    "javascript/JSchallenger/JSchallenger-Arrays对象.md",
     "docs/jvtools/Cookies",
     "javascript/WebAPI",
     "os/操作系统",
