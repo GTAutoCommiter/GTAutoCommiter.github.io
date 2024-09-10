@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "事件冒泡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/【面向学习】/React官网文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npm/npm-使用技巧.md"
+                "file": "react/【面向学习】/React官网文档.md"
               }
             }
           }
@@ -148,10 +149,13 @@
   },
   "active": "dbf4477187ef498a",
   "lastOpenFiles": [
-    "npm/npm-错误码处理.md",
-    "npm/npm-使用技巧.md",
-    "npm/yarn-使用技巧.md",
+    "react/【面向学习】/react-尚硅谷.md",
     "npm/tarojs-使用技巧.md",
+    "intro.md",
+    "frontend/前端开发技巧.md",
+    "npm/npm-使用技巧.md",
+    "npm/npm-错误码处理.md",
+    "npm/yarn-使用技巧.md",
     "npm/loadash-源码笔记.md",
     "npm/moment-使用笔记.md",
     "npm/ms-源码笔记.md",
@@ -171,11 +175,8 @@
     "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
     "os/macOs/macOs.md",
     "htmlandcss/scss/scss-官方文档笔记.md",
-    "javascript/函数参数占位符.md",
     "javascript/JavaScript",
-    "javascript/ES/ES6-尚硅谷.md",
     "javascript/ES",
-    "javascript/freeCodeCamp/中级算法.md",
     "docs/jvtools/Cookies",
     "javascript/WebAPI",
     "os/操作系统",
