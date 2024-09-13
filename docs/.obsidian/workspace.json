@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
+                "file": "npm/npm-使用技巧.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
+                "file": "npm/npm-使用技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md",
+                "file": "npm/npm-使用技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/【面向学习】/React官网文档.md"
+                "file": "npm/npm-使用技巧.md"
               }
             }
           }
@@ -149,13 +148,14 @@
   },
   "active": "dbf4477187ef498a",
   "lastOpenFiles": [
+    "npm/npm-错误码处理.md",
+    "npm/yarn-使用技巧.md",
+    "react/【面向学习】/React官网文档.md",
     "react/【面向学习】/react-尚硅谷.md",
     "npm/tarojs-使用技巧.md",
     "intro.md",
     "frontend/前端开发技巧.md",
     "npm/npm-使用技巧.md",
-    "npm/npm-错误码处理.md",
-    "npm/yarn-使用技巧.md",
     "npm/loadash-源码笔记.md",
     "npm/moment-使用笔记.md",
     "npm/ms-源码笔记.md",
@@ -174,7 +174,6 @@
     "javascript/JavaScript高级程序设计/代理与反射.md",
     "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
     "os/macOs/macOs.md",
-    "htmlandcss/scss/scss-官方文档笔记.md",
     "javascript/JavaScript",
     "javascript/ES",
     "docs/jvtools/Cookies",
