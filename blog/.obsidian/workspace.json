@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/未整理/20240913.md",
-                "mode": "preview",
+                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/未整理/20240913.md",
+                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/未整理/20240913.md",
+                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/未整理/20240913.md"
+                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md"
               }
             }
           }
@@ -173,11 +173,13 @@
   },
   "active": "17330752fea8df9c",
   "lastOpenFiles": [
-    "develop/未整理/未命名.md",
     "develop/未整理/20240913.md",
-    "develop/ES迭代目录.md",
+    "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
+    "develop/草稿箱",
+    "develop/未整理/未命名.md",
     "develop/HTTP迭代目录.md",
     "develop/Javascript陷阱.md",
+    "develop/ES迭代目录.md",
     "develop/未整理",
     "develop/已发布/【微信小程序】安卓版后台与ios后台处理不同.md",
     "develop/【Taro】封装监听微信小程序是否为当前页面hook.md",
