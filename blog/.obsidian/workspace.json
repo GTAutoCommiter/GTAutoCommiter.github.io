@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/未整理/未命名.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17330752fea8df9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
+                "file": "develop/草稿箱/=.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
+                "file": "develop/草稿箱/=.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
+                "file": "develop/草稿箱/=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md"
+                "file": "develop/草稿箱/=.md"
               }
             }
           }
@@ -171,12 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17330752fea8df9c",
+  "active": "e2690bfeb21cbb96",
   "lastOpenFiles": [
-    "develop/未整理/20240913.md",
     "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
-    "develop/草稿箱",
+    "develop/草稿箱/=.md",
     "develop/未整理/未命名.md",
+    "develop/未整理/20240913.md",
+    "develop/草稿箱",
     "develop/HTTP迭代目录.md",
     "develop/Javascript陷阱.md",
     "develop/ES迭代目录.md",
