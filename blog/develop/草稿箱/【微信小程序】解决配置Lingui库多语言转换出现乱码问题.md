@@ -1,6 +1,6 @@
 # bug描述
 
-* 【现象】：线上使用繁体字出现乱码
+* 【现象】：项目线上使用繁体字出现乱码
 
 * 【环境】：
 
@@ -33,16 +33,36 @@
 
    * 根据文档可知道，该库本地化需要遵循[BCP-47 code](http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)
 
-     * PS：但是在上述官方文档给的连接中查看，没有找到繁体中文的设置，于是搜索[博客](https://xnxy.github.io/2024/06/11/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%AD%E5%B8%B8%E7%94%A8BCP-47%20Code%E5%92%8C%E8%AF%AD%E8%A8%80%E5%AF%B9%E7%85%A7%E8%A1%A8/)。
+     * PS：上述官方文档中，繁体中文的设置
 
-   * 微信获取到的值为
+       ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/blog/20240922105106.png)
 
+   * 而微信获取到的值为
+   
      ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/blog/20240921233051.png)
 
 # 解决
 
 ````javascript
-//上述代码第7行改为下述代码
-lang = info.language?.replace('_', '-');
+//上述代码第3行后的改为下述代码
+// lingui库本地化设置
+let textLang = lang;
+i18n.loadLocaleData(localeData);
+i18n.load(messages);
+if (!textLang) {
+  const info = Taro.getAppBaseInfo();
+  lang = info.language?.replace('_', '-');
+  const textMap = {
+    'zh-CN': 'zh',
+    'zh-TW': 'yue',
+    'zh-HK': 'yue',
+  }
+  textLang = textMap[lang];
+}
+i18n.activate(textLang || 'zh');
 ````
 
+# 总结
+
+1. lingui库支持BCP-47 code 语言标记值设置本地转换
+2. 微信小程序使用lingui库需要对语言标记值进行转换
