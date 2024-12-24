@@ -414,5 +414,17 @@
   "sidebar.docs.category.Cookies": {
     "message": "Cookies",
     "description": "The label for category Cookies in sidebar docs"
+  },
+  "sidebar.tutorialSidebar.category.ES": {
+    "message": "ES",
+    "description": "The label for category ES in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.v17": {
+    "message": "v17",
+    "description": "The label for category v17 in sidebar tutorialSidebar"
+  },
+  "sidebar.react.category.v17": {
+    "message": "v17",
+    "description": "The label for category v17 in sidebar react"
   }
 }

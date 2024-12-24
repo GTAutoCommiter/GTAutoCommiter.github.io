@@ -12,11 +12,42 @@
 
 逻辑：
 
-1. 验证
+## 1、验证
 
-   ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_1.jfif)
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_1.jfif)
 
-2. 复制原始属性
+## 2、复制原始属性
 
-   
+ ![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_2.jfif)
 
+## 3、提取保留名称（key和ref）
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_3.jfif)
+
+## 4、保留所有者
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_4.jfif)
+
+## 5、处理配置
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_5.jfif)
+
+## 6、默认属性处理
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_6.jfif)
+
+## 7、子元素处理
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_7.jfif)
+
+## 8、创建克隆元素
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_8.jfif)
+
+## 9、验证子元素的键
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_9.jfif)
+
+## 10、返回克隆元素
+
+![](https://gitee.com/lao-jiawei/photo-gallery/raw/master/images/react/cloneElement_10.jfif)
