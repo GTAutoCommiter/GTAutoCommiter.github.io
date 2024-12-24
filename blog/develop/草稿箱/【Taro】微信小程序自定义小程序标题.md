@@ -1,4 +1,4 @@
-# 前言
+<!-- # 前言
 
 * 需求：
 
@@ -6,8 +6,7 @@
   2. 自定义标题栏字体大小与默认标题栏字体大小一致（即：字体随系统设置）
 
 * 环境：
-  ````json
-  ````
+
 
   
 
@@ -63,5 +62,5 @@ export default definePageConfig({
    
    * 关键点：
      * `wx.getAppBaseInfo`：获取微信系统字体样式——[微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/api/base/system/wx.getAppBaseInfo.html)
-     * 设置字体最大不得超过22像素：[参考微信小程序设计规范](https://developers.weixin.qq.com/miniprogram/design/#%E5%AD%97%E4%BD%93)
+     * 设置字体最大不得超过22像素：[参考微信小程序设计规范](https://developers.weixin.qq.com/miniprogram/design/#%E5%AD%97%E4%BD%93) -->
 

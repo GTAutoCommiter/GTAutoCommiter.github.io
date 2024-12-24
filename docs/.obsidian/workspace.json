@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/源码阅读/v17/createElement.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "createElement"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/源码阅读/v17/createElement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "createElement 的反向链接列表"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm/npm-使用技巧.md",
+                "file": "react/源码阅读/v17/createElement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "createElement 的出链列表"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npm/npm-使用技巧.md"
-              }
+                "file": "react/源码阅读/v17/createElement.md"
+              },
+              "icon": "lucide-list",
+              "title": "createElement 的大纲"
             }
           }
         ],
@@ -148,6 +164,14 @@
   },
   "active": "dbf4477187ef498a",
   "lastOpenFiles": [
+    "react/源码阅读/v17/cloneElement.md",
+    "react/源码阅读/hook/useState源码解读.md",
+    "react/源码阅读/v17/createElement.md",
+    "react/源码阅读/v17/createElement_v17.md",
+    "react/源码阅读/v17",
+    "react/源码阅读/createElement.md",
+    "react/源码阅读/createElement_v17.md",
+    "npm/npm-使用技巧.md",
     "npm/npm-错误码处理.md",
     "npm/yarn-使用技巧.md",
     "react/【面向学习】/React官网文档.md",
@@ -155,7 +179,6 @@
     "npm/tarojs-使用技巧.md",
     "intro.md",
     "frontend/前端开发技巧.md",
-    "npm/npm-使用技巧.md",
     "npm/loadash-源码笔记.md",
     "npm/moment-使用笔记.md",
     "npm/ms-源码笔记.md",
@@ -168,12 +191,6 @@
     "git/gitignore设置.md",
     "javascript/WebAPI/document.md",
     "javascript/【面向学习】/Javascript-尚硅谷-入门.md",
-    "javascript/【面向学习】/Javascript-尚硅谷-进阶.md",
-    "javascript/JavaScript高级程序设计/Promise与异步函数.md",
-    "javascript/JavaScript高级程序设计/迭代器与生成器.md",
-    "javascript/JavaScript高级程序设计/代理与反射.md",
-    "javascript/JavaScript高级程序设计/变量、作用域与内存.md",
-    "os/macOs/macOs.md",
     "javascript/JavaScript",
     "javascript/ES",
     "docs/jvtools/Cookies",
@@ -182,7 +199,6 @@
     "algorithm",
     "tool",
     "react/源码阅读/初始化渲染/render阶段",
-    "react/源码阅读/初始化渲染",
-    "react/源码阅读/数据结构"
+    "react/源码阅读/初始化渲染"
   ]
 }

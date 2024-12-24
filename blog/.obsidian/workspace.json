@@ -16,7 +16,9 @@
                 "file": "develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "【微信小程序】解决配置Lingui库多语言转换出现乱码问题"
             }
           },
           {
@@ -28,11 +30,25 @@
                 "file": "develop/草稿箱/【React】useRef用法.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "【React】useRef用法"
+            }
+          },
+          {
+            "id": "9469fe080e02a819",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -67,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/草稿箱/【React】useRef用法.md",
+                "file": "develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "【微信小程序】解决配置Lingui库多语言转换出现乱码问题 的反向链接列表"
             }
           },
           {
@@ -115,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/草稿箱/【React】useRef用法.md",
+                "file": "develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "【微信小程序】解决配置Lingui库多语言转换出现乱码问题 的出链列表"
             }
           },
           {
@@ -129,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/草稿箱/【React】useRef用法.md"
-              }
+                "file": "develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题.md"
+              },
+              "icon": "lucide-list",
+              "title": "【微信小程序】解决配置Lingui库多语言转换出现乱码问题 的大纲"
             }
           }
         ],
@@ -159,7 +189,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e07866e5a1ecdc1",
+  "active": "9469fe080e02a819",
   "lastOpenFiles": [
     "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
     "develop/已发布/【微信小程序】安卓版后台与ios后台处理不同.md",
