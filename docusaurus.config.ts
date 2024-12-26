@@ -90,9 +90,10 @@ const config: Config = {
           // ],
         },
         {
-          to: 'https://juejin.cn/user/2656897734017608/posts',
+          // to: 'https://juejin.cn/user/2656897734017608/posts',
           label: '博客',
-          position: 'right'
+          position: 'right',
+          to: 'platform',
         },
         {
           to: 'project',
