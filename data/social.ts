@@ -21,6 +21,9 @@ const social: Social = {
   github: 'https://github.com/lao-jiawei',
   juejin: 'https://juejin.cn/user/2656897734017608',
   // email: 'lao-jiawei@qq.com',
+  csdn: 'https://blog.csdn.net/weixin_45944495?spm=1001.2101.3001.5343',
+  leetcode:'https://leetcode.cn/u/lao-jiawei/',
+  cnblog: 'https://www.cnblogs.com/lao-jiaweijarvee',
 }
 
 const socialSet: Record<keyof Social | 'rss', SocialValue> = {
@@ -36,23 +39,23 @@ const socialSet: Record<keyof Social | 'rss', SocialValue> = {
     icon: 'simple-icons:juejin',
     color: '#1E81FF',
   },
-  twitter: {
-    href: social.twitter,
-    title: 'Twitter',
-    icon: 'ri:twitter-line',
+  csdn: {
+    href: social.csdn,
+    title: 'CSDN',
+    icon: 'simple-icons:csdn',
+    color: '#e96140',
+  },
+  leetcode: {
+    href: social.leetcode,
+    title: '力扣',
+    icon: 'simple-icons:leetcode',
+    color: '#f0a641',
+  },
+  cnblog: {
+    href: social.cnblog,
+    title: '博客园',
+    icon: 'material-symbols:wifi',
     color: '#1da1f2',
-  },
-  discord: {
-    href: social.discord,
-    title: 'Discord',
-    icon: 'ri:discord-line',
-    color: '#5A65F6',
-  },
-  qq: {
-    href: social.qq,
-    title: 'QQ',
-    icon: 'ri:qq-line',
-    color: '#1296db',
   },
   wx: {
     href: social.wx,

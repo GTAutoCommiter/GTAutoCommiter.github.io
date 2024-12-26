@@ -73,12 +73,12 @@ const config: Config = {
       },
       //TODO: 调整目录结构
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Tutorial',
+        // },
         {
           to: 'resources',
           label: '笔记',
@@ -89,12 +89,12 @@ const config: Config = {
           //   { label: 'CS', to: '/blog' },
           // ],
         },
-        {
-          // to: 'https://juejin.cn/user/2656897734017608/posts',
-          label: '博客',
-          position: 'right',
-          to: 'platform',
-        },
+        // {
+        //   // to: 'https://juejin.cn/user/2656897734017608/posts',
+        //   label: '博客',
+        //   position: 'right',
+        //   to: 'platform',
+        // },
         {
           to: 'project',
           label: '项目',
