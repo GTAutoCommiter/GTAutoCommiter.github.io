@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/源码阅读/v17/dispatchSetState.md",
+                "file": "react/【面向学习】/react-尚硅谷.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dispatchSetState"
+              "title": "react-尚硅谷"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/源码阅读/v17/dispatchSetState.md"
+                "file": "react/【面向学习】/react-尚硅谷.md"
               },
               "icon": "lucide-list",
-              "title": "dispatchSetState 的大纲"
+              "title": "react-尚硅谷 的大纲"
             }
           }
         ],
@@ -164,11 +164,15 @@
   },
   "active": "dbf4477187ef498a",
   "lastOpenFiles": [
-    "react/源码阅读/v17/mountState.md",
+    "react/【面向学习】/Ahook库源码.md",
+    "react/源码阅读/数据结构/ReactRootTag.md",
+    "react/源码阅读/数据结构/双缓存技术.md",
+    "react/源码阅读/hook/useState源码解读.md",
+    "react/源码阅读/v17/dispatchReducerAction.md",
     "react/源码阅读/v17/dispatchSetState.md",
+    "react/源码阅读/v17/mountState.md",
     "react/源码阅读/v17/updateEffect.md",
     "react/源码阅读/v17/mountEffect.md",
-    "react/【面向学习】/Ahook库源码.md",
     "react/源码阅读/isValidElement.md",
     "react/源码阅读/v17/onActionError.md",
     "react/源码阅读/v17/onActionSuccess.md",
@@ -178,8 +182,6 @@
     "react/源码阅读/v17/mountActionState~.md",
     "react/源码阅读/v17/mountActionState.md",
     "react/源码阅读/v17/createElement.md",
-    "react/源码阅读/数据结构/ReactRootTag.md",
-    "react/源码阅读/数据结构/双缓存技术.md",
     "react/源码阅读/v17/FiberNode.md",
     "react/源码阅读/v17/WorkTag.md",
     "react/源码阅读/数据结构/Fiber.md",
@@ -188,8 +190,6 @@
     "react/源码阅读/v17/createFiberFromTypeAndProps.md",
     "react/源码阅读/v17/cloneElement.md",
     "react/源码阅读/v17/createWorkInProgress.md",
-    "react/源码阅读/v17/createWorkInProgress~.md",
-    "react/源码阅读/v17/jsxProd.md",
     "react/源码阅读/v17",
     "javascript/JavaScript",
     "javascript/ES",
