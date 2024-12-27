@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "cd45f90ed1eb14f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,11 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "【微信小程序】解决配置Lingui库多语言转换出现乱码问题 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -189,7 +199,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9469fe080e02a819",
+  "active": "cd45f90ed1eb14f7",
   "lastOpenFiles": [
     "develop/草稿箱/【Taro】微信小程序自定义小程序标题.md",
     "develop/已发布/【微信小程序】安卓版后台与ios后台处理不同.md",
