@@ -1,4 +1,3 @@
-import { useColorMode } from '@docusaurus/theme-common';
 import { Project, projects } from '@site/data/projects';
 import clsx from 'clsx';
 import Marquee from 'react-fast-marquee';
@@ -12,7 +11,8 @@ const removeHttp = (url: string) => {
 const showProjects = projects.filter(i => i.preview)
 
 const Slider = ({ items }: { items: Project[] }) => {
-  const { isDarkTheme } = useColorMode();
+  // const { isDarkTheme } = useColorMode();
+  const isDarkTheme = false;
   return (
     <div className={styles.slider}>
       <Marquee
