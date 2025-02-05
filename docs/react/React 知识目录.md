@@ -28,10 +28,14 @@ date: 2022-05-10
 
 ### 1.10 React 组件类型：函数组件 vs 类组件  
 
+* [函数组件与类组件](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%87%BD%E6%95%B0%E7%BB%84%E4%BB%B6%E4%B8%8E%E7%B1%BB%E7%BB%84%E4%BB%B6)
+
 ---
 
 ## 2. React 高级特性
 ### 2.1 组件生命周期（类组件）  
+
+* [函数组件与类组件生命周期](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%87%BD%E6%95%B0%E7%BB%84%E4%BB%B6%E4%B8%8E%E7%B1%BB%E7%BB%84%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
 ### 2.2 Hooks 基础  
 
