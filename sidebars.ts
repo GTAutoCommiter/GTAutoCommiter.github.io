@@ -21,6 +21,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       link: { type: 'generated-index' },
       items: [
+        'javascript/javascript-menu',
         {
           label: 'Javascript高级程序设计',
           type: 'category',
@@ -89,7 +90,6 @@ const sidebars: SidebarsConfig = {
           ],
         },
         'javascript/javascript-test',
-        'javascript/javascript-test1',
       ]
     }
   ],
