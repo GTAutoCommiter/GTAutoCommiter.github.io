@@ -14,7 +14,8 @@ date: 2022-05-10
 
 ### 1.3 组件与 Props  
 
-* 单向数据流
+* [单向数据流](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%8D%95%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81)
+* Props 的传递与校验
 
 ### 1.4 状态与 State  
 
