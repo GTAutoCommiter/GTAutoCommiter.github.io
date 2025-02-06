@@ -4,7 +4,7 @@
         <title>Jv Blog</title>
         <link>https://lao-jiawei.github.io/blog</link>
         <description>Jv Blog</description>
-        <lastBuildDate>Thu, 06 Feb 2025 00:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 15:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,77 +12,77 @@
             <title><![CDATA[develop/HTTP迭代目录]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/HTTP迭代目录</link>
             <guid>https://lao-jiawei.github.io/blog/develop/HTTP迭代目录</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[HTTP3.0]]></description>
         </item>
         <item>
             <title><![CDATA[develop/Javascript陷阱]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/Javascript陷阱</link>
             <guid>https://lao-jiawei.github.io/blog/develop/Javascript陷阱</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[1. array.every判断空数组为true]]></description>
         </item>
         <item>
             <title><![CDATA[封装原因]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/【Taro】封装监听微信小程序是否为当前页面hook</link>
             <guid>https://lao-jiawei.github.io/blog/develop/【Taro】封装监听微信小程序是否为当前页面hook</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[1. 项目需求逻辑有些页面需要判断是否为当前页面。]]></description>
         </item>
         <item>
             <title><![CDATA[前言]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】如何不点击，使用方法触发按钮的点击事件？</link>
             <guid>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】如何不点击，使用方法触发按钮的点击事件？</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[* 需求：想要使用方法来触发Button元素中的onClick事件，而不是人为点击触发。]]></description>
         </item>
         <item>
             <title><![CDATA[前言]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】如何实现文字转语音？</link>
             <guid>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】如何实现文字转语音？</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[* 需求：微信小程序如何实现提供指定的文本，然后采取语音播报？]]></description>
         </item>
         <item>
             <title><![CDATA[起因]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】安卓版后台与ios后台处理不同</link>
             <guid>https://lao-jiawei.github.io/blog/develop/已发布/【微信小程序】安卓版后台与ios后台处理不同</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[* 需求：发布订阅功能需要能够一直挂在后台。]]></description>
         </item>
         <item>
             <title><![CDATA[Taro]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/未整理/20240913</link>
             <guid>https://lao-jiawei.github.io/blog/develop/未整理/20240913</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[1. 如何指定特定环境]]></description>
         </item>
         <item>
             <title><![CDATA[develop/草稿箱/【CSS】rem、rpx、px、vw（vh）区别]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/草稿箱/【CSS】rem、rpx、px、vw（vh）区别</link>
             <guid>https://lao-jiawei.github.io/blog/develop/草稿箱/【CSS】rem、rpx、px、vw（vh）区别</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[rpx:]]></description>
         </item>
         <item>
             <title><![CDATA[develop/草稿箱/【React】useRef用法]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/草稿箱/【React】useRef用法</link>
             <guid>https://lao-jiawei.github.io/blog/develop/草稿箱/【React】useRef用法</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[使用场景：]]></description>
         </item>
         <item>
             <title><![CDATA[develop/草稿箱/【Taro】微信小程序自定义小程序标题]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/草稿箱/【Taro】微信小程序自定义小程序标题</link>
             <guid>https://lao-jiawei.github.io/blog/develop/草稿箱/【Taro】微信小程序自定义小程序标题</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[<!-- # 前言]]></description>
         </item>
         <item>
             <title><![CDATA[bug描述]]></title>
             <link>https://lao-jiawei.github.io/blog/develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题</link>
             <guid>https://lao-jiawei.github.io/blog/develop/草稿箱/【微信小程序】解决配置Lingui库多语言转换出现乱码问题</guid>
-            <pubDate>Thu, 06 Feb 2025 00:53:29 GMT</pubDate>
+            <pubDate>Thu, 06 Feb 2025 15:09:00 GMT</pubDate>
             <description><![CDATA[* 【现象】：项目线上使用繁体字出现乱码]]></description>
         </item>
         <item>

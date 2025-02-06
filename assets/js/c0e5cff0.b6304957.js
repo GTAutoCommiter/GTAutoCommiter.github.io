@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[7173],{8887:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"TypeScript","slug":"/category/typescript","permalink":"/docs/category/typescript","sidebar":"typescript","navigation":{"next":{"title":"TypeScript \u77e5\u8bc6\u76ee\u5f55","permalink":"/docs/typescript/test"}}}}')}}]);
