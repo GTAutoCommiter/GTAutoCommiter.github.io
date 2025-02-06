@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[6074],{888:a=>{a.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Javascript","slug":"/category/javascript","permalink":"/docs/category/javascript","sidebar":"javascript","navigation":{"next":{"title":"JavaScript \u77e5\u8bc6\u76ee\u5f55","permalink":"/docs/javascript-menu"}}}}')}}]);
