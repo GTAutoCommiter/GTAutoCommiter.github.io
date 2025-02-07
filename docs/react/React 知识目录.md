@@ -15,7 +15,7 @@ date: 2022-05-10
 ### 1.3 组件与 Props  
 
 * [单向数据流](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%8D%95%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81)
-* Props 的传递与校验
+* [Props 的传递与校验](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/Props%20%E7%9A%84%E4%BC%A0%E9%80%92%E4%B8%8E%E6%A0%A1%E9%AA%8C)
 
 ### 1.4 状态与 State  
 
@@ -70,7 +70,7 @@ date: 2022-05-10
 
 ### 3.2 Context API  
 
-* Context API 实现全局状态管理
+* [Context API 实现全局状态管理](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/Context%20API%20%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%B1%80%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86)
 
 ### 3.3 Redux 基础  
 
@@ -111,11 +111,13 @@ date: 2022-05-10
 ## **5. 性能优化**
 ### 5.1 React 渲染机制与虚拟 DOM  
 
-* React 的渲染流程
+* [React 的渲染流程](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/React%20%E7%9A%84%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B)
 
 ### 5.2 避免不必要的渲染  
 
    - `React.memo`  
+     - [关于React.memo](https://lao-jiawei.github.io/docs/react/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%85%B3%E4%BA%8EReact.memo)
+
    - `useMemo` 与 `useCallback`  
 
 ### 5.3 代码分割与懒加载  
