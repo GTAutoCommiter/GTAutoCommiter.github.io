@@ -70,6 +70,8 @@ date: 2022-05-10
 
 ### 3.2 Context API  
 
+* Context API 实现全局状态管理
+
 ### 3.3 Redux 基础  
 
    - Action、Reducer、Store  
@@ -108,6 +110,8 @@ date: 2022-05-10
 
 ## **5. 性能优化**
 ### 5.1 React 渲染机制与虚拟 DOM  
+
+* React 的渲染流程
 
 ### 5.2 避免不必要的渲染  
 
