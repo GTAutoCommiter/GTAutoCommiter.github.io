@@ -93,10 +93,10 @@ export const resourceData: ResourceCategory[] = [
         href: 'docs/category/nodejs',
       },
       {
-        name: 'mySQL',
+        name: '数据库',
         desc: '',
         logo: '/img/resource/mySQL.png',
-        href: '',
+        href: 'docs/category/数据库',
       },
     ]
   },

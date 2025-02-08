@@ -12,19 +12,21 @@ date: 2022-05-10
 
 ### 1.2 变量与常量  
 
-   - `var`、`let`、`const`  
-1.3 数据类型  
+   - [var、let、const ](https://lao-jiawei.github.io/docs/javascript/%E7%9F%A5%E8%AF%86%E5%BA%93/var%E3%80%81let%E3%80%81const)
+
+### 1.3 数据类型  
+
    - 基本类型：`number`、`string`、`boolean`、`null`、`undefined`、`symbol`、`bigint`  
    - 引用类型：`object`、`array`、`function`  
-1.4 类型转换  
+  1.4 类型转换  
    - 显式转换：`Number()`、`String()`、`Boolean()`  
    - 隐式转换：`==` 与 `===`  
-1.5 运算符  
+  1.5 运算符  
    - 算术运算符：`+`、`-`、`*`、`/`、`%`  
    - 比较运算符：`>`、`<`、`>=`、`<=`、`==`、`===`  
    - 逻辑运算符：`&&`、`||`、`!`  
    - 赋值运算符：`=`、`+=`、`-=`  
-1.6 控制流程  
+  1.6 控制流程  
    - 条件语句：`if`、`else`、`switch`  
    - 循环语句：`for`、`while`、`do...while`  
    - 跳转语句：`break`、`continue`、`return`  
