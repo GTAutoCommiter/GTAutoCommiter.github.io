@@ -2,6 +2,46 @@ import type * as Preset from '@docusaurus/preset-classic';
 import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
 
+const isProduction = process.env.NODE_ENV === 'production';
+console.log("🚀 ~ process.env.NODE_ENV:", process.env.NODE_ENV);
+console.log("🚀 ~ isProduction:", isProduction);
+
+const navBarItems = [
+  {
+    type: 'docSidebar',
+    sidebarId: 'tutorialSidebar',
+    position: 'left',
+    label: 'Tutorial',
+    show: !isProduction,
+  },
+  {
+    to: 'resources',
+    label: '笔记',
+    position: 'right',
+    // items: [
+    //   { label: '前端', to: '/blog' },
+    //   { label: '后端', to: '/blog' },
+    //   { label: 'CS', to: '/blog' },
+    // ],
+  },
+  // {
+  //   // to: 'https://juejin.cn/user/2656897734017608/posts',
+  //   label: '博客',
+  //   position: 'right',
+  //   to: 'platform',
+  // },
+  {
+    to: 'project',
+    label: '项目',
+    position: 'right',
+  },
+  {
+    href: 'https://github.com/lao-jiawei',
+    label: 'GitHub',
+    position: 'right',
+  },
+].filter(({ show = true }) => show);
+
 const config: Config = {
   title: 'Jv',
   tagline: '求知若渴，虚心若愚',
@@ -72,40 +112,41 @@ const config: Config = {
         src: 'img/logo.png',
       },
       //TODO: 调整目录结构
-      items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
-        {
-          to: 'resources',
-          label: '笔记',
-          position: 'right',
-          // items: [
-          //   { label: '前端', to: '/blog' },
-          //   { label: '后端', to: '/blog' },
-          //   { label: 'CS', to: '/blog' },
-          // ],
-        },
-        // {
-        //   // to: 'https://juejin.cn/user/2656897734017608/posts',
-        //   label: '博客',
-        //   position: 'right',
-        //   to: 'platform',
-        // },
-        {
-          to: 'project',
-          label: '项目',
-          position: 'right',
-        },
-        {
-          href: 'https://github.com/lao-jiawei',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+      items: navBarItems,
+      // items: [
+      //   {
+      //     type: 'docSidebar',
+      //     sidebarId: 'tutorialSidebar',
+      //     position: 'left',
+      //     label: 'Tutorial',
+      //   },
+      //   {
+      //     to: 'resources',
+      //     label: '笔记',
+      //     position: 'right',
+      //     // items: [
+      //     //   { label: '前端', to: '/blog' },
+      //     //   { label: '后端', to: '/blog' },
+      //     //   { label: 'CS', to: '/blog' },
+      //     // ],
+      //   },
+      //   // {
+      //   //   // to: 'https://juejin.cn/user/2656897734017608/posts',
+      //   //   label: '博客',
+      //   //   position: 'right',
+      //   //   to: 'platform',
+      //   // },
+      //   {
+      //     to: 'project',
+      //     label: '项目',
+      //     position: 'right',
+      //   },
+      //   {
+      //     href: 'https://github.com/lao-jiawei',
+      //     label: 'GitHub',
+      //     position: 'right',
+      //   },
+      // ],
     },
     footer: {
       style: 'dark',
