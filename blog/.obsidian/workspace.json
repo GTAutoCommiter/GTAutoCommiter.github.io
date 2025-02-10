@@ -55,7 +55,7 @@
               "state": {
                 "currentVersion": "1.7.7"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-book-up",
               "title": "Release Notes 1.7.7"
             }
           }
@@ -79,7 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -177,7 +178,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "大纲"
             }

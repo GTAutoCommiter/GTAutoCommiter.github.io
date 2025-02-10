@@ -17,6 +17,8 @@ date: 2022-05-10
 ### 1.3 数据类型  
 
    - 基本类型：`number`、`string`、`boolean`、`null`、`undefined`、`symbol`、`bigint`  
+     - [基本类型](https://lao-jiawei.github.io/docs/javascript/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B)
+
    - 引用类型：`object`、`array`、`function`  
 
 ### 1.4 类型转换  
@@ -43,6 +45,8 @@ date: 2022-05-10
 ### 2.1 函数声明与表达式  
 
 ### 2.2 箭头函数  
+
+* 
 
 ### 2.3 函数参数  
 
