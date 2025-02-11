@@ -5,13 +5,6 @@ title: flex布局学习笔记
 date: 2022-05-10
 ---
 
-# 前言：
-
-该笔记为个人学习Flex布局时，学习[Flex 布局语法教程](https://www.runoob.com/w3cnote/flex-grammar.html)，进一步的简单整理的个人学习笔记。
-笔记中有些个人理解后整理的笔记，可能有所偏差，也恳请读者帮忙指出，谢谢。
-
-
-
 # 什么是Flex布局?
 
 - Flex 是Flexible Box 弹性盒子
