@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjv_blog=self.webpackChunkjv_blog||[]).push([[7442],{7004:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"\u6570\u636e\u5e93","slug":"/category/\u6570\u636e\u5e93","permalink":"/docs/category/\u6570\u636e\u5e93","sidebar":"db","navigation":{"next":{"title":"mongodb","permalink":"/docs/category/mongodb"}}}}')}}]);
