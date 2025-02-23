@@ -5,6 +5,11 @@ title: JavaScript 知识目录
 date: 2022-05-10
 ---
 
+# 权威网站
+
+* [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* 
+
 # JavaScript 知识目录
 
 ## 1. JavaScript 基础
