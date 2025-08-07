@@ -18,7 +18,7 @@ type SocialValue = {
 }
 
 const social: Social = {
-  github: 'https://github.com/lao-jiawei',
+  github: 'https://github.com/GTAutoCommiter',
   juejin: 'https://juejin.cn/user/2656897734017608/posts',
   // email: 'lao-jiawei@qq.com',
   csdn: 'https://blog.csdn.net/weixin_45944495?spm=1001.2101.3001.5343',

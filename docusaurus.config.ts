@@ -36,7 +36,7 @@ const navBarItems = [
     position: 'right',
   },
   {
-    href: 'https://github.com/lao-jiawei',
+    href: 'https://github.com/GTAutoCommiter',
     label: 'GitHub',
     position: 'right',
   },
@@ -46,10 +46,10 @@ const config: Config = {
   title: 'Jv',
   tagline: '求知若渴，虚心若愚',
   favicon: 'img/logo.ico',
-  url: 'https://lao-jiawei.github.io/',
+  url: 'https://GTAutoCommiter.github.io/',
   baseUrl: '/',
-  organizationName: 'lao-jiawei', // Usually your GitHub org/user name.
-  projectName: 'lao-jiawei.github.io', // Usually your repo name.
+  organizationName: 'GTAutoCommiter-jiawei', // Usually your GitHub org/user name.
+  projectName: 'GTAutoCommiter.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
